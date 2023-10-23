@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        <url>
+            <loc>/welcome-HjwKNusM</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/design-tokens-bDZdeSqk</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/typography-XNZ7KEJz</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/component-overview-I1Tui13S</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/component-detail-rrYRzZEf</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/testing-HtJc1dxN</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/testing-2-fTwFUCDI</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/product-cert-Nzr0KraA</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/2-tabs-typography-and-comp-checklist-5peiGScw</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/buttons/live-code-snippet-BD2KvaMx</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/assets/icons-Hwx9e8fo</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+   
+</urlset>
