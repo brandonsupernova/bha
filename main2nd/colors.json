@@ -295,6 +295,10 @@
           "value": "#c0f0e6ff",
           "type": "color"
         },
+        "teal-100": {
+          "value": "#d5f6efff",
+          "type": "color"
+        },
         "teal-0": {
           "value": "#e9f8f5ff",
           "type": "color"
@@ -470,6 +474,10 @@
         },
         "yellow-700": {
           "value": "#d49b35ff",
+          "type": "color"
+        },
+        "yellow-600": {
+          "value": "#f6be41ff",
           "type": "color"
         },
         "yellow-500": {
