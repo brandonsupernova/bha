@@ -929,13 +929,6 @@
     "type": "contentBlock",
     "pageName": "Live Code Snippet ",
     "category": "Buttons / Live Code Snippet ",
-    "url": "/buttons/live-code-snippet-BD2KvaMx#search-c0750880-6e92-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Live Code Snippet ",
-    "category": "Buttons / Live Code Snippet ",
     "url": "/buttons/live-code-snippet-BD2KvaMx#search-186aa610-7304-11ee-aff5-536e955a3758"
   },
   {
@@ -944,48 +937,6 @@
     "pageName": "Live Code Snippet ",
     "category": "Buttons / Live Code Snippet ",
     "url": "/buttons/live-code-snippet-BD2KvaMx"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN#search-f3627210-7305-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN#search-e9090fe0-7305-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN#search-eaee2390-7305-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN#search-eb7e2e91-7305-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN#search-ef79c630-7305-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "Markdown",
-    "type": "pageTitle",
-    "pageName": "Markdown",
-    "category": "Buttons / Markdown",
-    "url": "/buttons/markdown-gUvoyizN"
   },
   {
     "text": "Icons",
