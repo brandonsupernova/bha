@@ -719,6 +719,10 @@
           "type": "color"
         }
       }
+    },
+    "test-token": {
+      "value": "#d61515ff",
+      "type": "color"
     }
   }
 }
