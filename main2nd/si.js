@@ -1,18 +1,25 @@
 
   const FuseSearchData = [
   {
-    "text": "In case you're not too sure where to begin, we've provided some templates for you to fill out. You can also learn more about different parts of the product, and how to join our community, right here.",
+    "text": "",
     "type": "contentBlock",
     "pageName": "Welcome!",
     "category": "Welcome!",
     "url": "/welcome-HjwKNusM#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
   },
   {
+    "text": "In case/ you're not too sure where to begin, we've provided some templates for you to fill out. You can also learn more about different parts of the product, and how to join our community, right here.",
+    "type": "contentBlock",
+    "pageName": "Welcome!",
+    "category": "Welcome!",
+    "url": "/welcome-HjwKNusM#search-17a377d0-771d-11ee-9184-853d78a7074f"
+  },
+  {
     "text": "Enjoy exploring Supernova! ",
     "type": "contentBlock",
     "pageName": "Welcome!",
     "category": "Welcome!",
-    "url": "/welcome-HjwKNusM#search-1988b1b0-d47e-11ed-911b-fb014ea4328e"
+    "url": "/welcome-HjwKNusM#search-4f2d2660-771d-11ee-9184-853d78a7074f"
   },
   {
     "text": "Documentation templates",
