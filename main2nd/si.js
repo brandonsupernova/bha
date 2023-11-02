@@ -3,6 +3,48 @@
   {
     "text": "",
     "type": "contentBlock",
+    "pageName": "Colors",
+    "category": "STYLEGUIDE / Colors",
+    "url": "/styleguide/colors-erZhd4Ns#search-90bbb1b0-7992-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "Colors",
+    "type": "pageTitle",
+    "pageName": "Colors",
+    "category": "STYLEGUIDE / Colors",
+    "url": "/styleguide/colors-erZhd4Ns"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Tokens Only/Token Details",
+    "category": "STYLEGUIDE / Tokens Only / Token Details",
+    "url": "/styleguide/tokens-only/token-details-8iIKcDif#search-a8c09c60-7994-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "Token Details",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token Details",
+    "category": "STYLEGUIDE / Tokens Only / Token Details",
+    "url": "/styleguide/tokens-only/token-details-8iIKcDif"
+  },
+  {
+    "text": "Token Groups",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token Groups",
+    "category": "STYLEGUIDE / Tokens Only / Token Groups",
+    "url": "/styleguide/tokens-only/token-groups-hhbwvoMn"
+  },
+  {
+    "text": "Token List",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token List",
+    "category": "STYLEGUIDE / Tokens Only / Token List",
+    "url": "/styleguide/tokens-only/token-list-WGHyZaJg"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
     "pageName": "Welcome!",
     "category": "Welcome!",
     "url": "/welcome-HjwKNusM#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
@@ -265,6 +307,20 @@
     "pageName": "Welcome!",
     "category": "Welcome!",
     "url": "/welcome-HjwKNusM"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "STYLEGUIDE",
+    "category": "STYLEGUIDE",
+    "url": "/styleguide-J95FdG5D#search-807c25f0-7992-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "STYLEGUIDE",
+    "type": "pageTitle",
+    "pageName": "STYLEGUIDE",
+    "category": "STYLEGUIDE",
+    "url": "/styleguide-J95FdG5D"
   },
   {
     "text": "This template contains some sample content on styles and design tokens. It’s ideal for documenting a specific token type, like colors. You can use what you like from it to create your own documentation, and delete anything you don’t want to keep.",
@@ -985,7 +1041,21 @@
     "type": "groupTitle",
     "pageName": "Documentation Root",
     "category": "Documentation Root",
-    "url": "/welcome-HjwKNusM"
+    "url": "/styleguide/colors-erZhd4Ns"
+  },
+  {
+    "text": "STYLEGUIDE",
+    "type": "groupTitle",
+    "pageName": "STYLEGUIDE",
+    "category": "STYLEGUIDE",
+    "url": "/styleguide/colors-erZhd4Ns"
+  },
+  {
+    "text": "Tokens Only",
+    "type": "groupTitle",
+    "pageName": "Tokens Only",
+    "category": "STYLEGUIDE / Tokens Only",
+    "url": "/styleguide/tokens-only/token-details-8iIKcDif"
   },
   {
     "text": "Foundations",

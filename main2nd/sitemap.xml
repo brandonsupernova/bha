@@ -3,7 +3,27 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
+            <loc>/styleguide/colors-erZhd4Ns</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/tokens-only/token-details-8iIKcDif</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/tokens-only/token-groups-hhbwvoMn</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/tokens-only/token-list-WGHyZaJg</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/welcome-HjwKNusM</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide-J95FdG5D</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
