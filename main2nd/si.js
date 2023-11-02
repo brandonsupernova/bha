@@ -45,6 +45,251 @@
   {
     "text": "",
     "type": "contentBlock",
+    "pageName": "Live Code Snippet ",
+    "category": "WEB COMPONENTS  / Live Code Snippet ",
+    "url": "/web-components/live-code-snippet-BD2KvaMx#search-51398910-7468-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Live Code Snippet ",
+    "category": "WEB COMPONENTS  / Live Code Snippet ",
+    "url": "/web-components/live-code-snippet-BD2KvaMx#search-4cf8ab10-7468-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Live Code Snippet ",
+    "category": "WEB COMPONENTS  / Live Code Snippet ",
+    "url": "/web-components/live-code-snippet-BD2KvaMx#search-186aa610-7304-11ee-aff5-536e955a3758"
+  },
+  {
+    "text": "Live Code Snippet ",
+    "type": "pageTitle",
+    "pageName": "Live Code Snippet ",
+    "category": "WEB COMPONENTS  / Live Code Snippet ",
+    "url": "/web-components/live-code-snippet-BD2KvaMx"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Storybook",
+    "category": "WEB COMPONENTS  / Storybook",
+    "url": "/web-components/storybook-o6CzQxER#search-21f5e1e0-799e-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "Storybook",
+    "type": "pageTitle",
+    "pageName": "Storybook",
+    "category": "WEB COMPONENTS  / Storybook",
+    "url": "/web-components/storybook-o6CzQxER"
+  },
+  {
+    "text": "This template contains a suggested page layout for showing an overview of your design system components, including links to each component page in your documentation. \nYou can use what you like from it to create your own documentation, and delete anything you don’t want to keep. ",
+    "type": "contentBlock",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-793365a0-d47f-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Components",
+    "type": "sectionHeader",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-793365a2-d47f-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "You can use a Component Overview block to show a table with all your components, and links to them in Figma.",
+    "type": "contentBlock",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-79338cb0-d47f-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "You can learn more about components in our documentation. ",
+    "type": "contentBlock",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-79338cb3-d47f-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-f2f57950-51ef-11ec-9e6d-bdf95c8a8921"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S#search-f39dc360-4bb1-11ec-a0dd-9f8e86820f15"
+  },
+  {
+    "text": "Component overview",
+    "type": "pageTitle",
+    "pageName": "Component overview",
+    "category": "COMPONENTS / Component overview",
+    "url": "/components/component-overview-I1Tui13S"
+  },
+  {
+    "text": "This template contains some sample content on components, and a suggested page layout. You can use what you like from it to create your own documentation, and delete anything you don’t want to keep.",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-293bf111-d480-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Component title",
+    "type": "sectionHeader",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-d325d670-d483-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Start with an image or Figma frame showing your component. Include a short description in a text block if required, and then add a component checklist block to display selected properties of the component in detail.",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-d325fd80-d483-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Usage",
+    "type": "sectionHeader",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-73910990-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "You can include usage guidelines, so the consumers of your design system know when to use this component, or when to avoid it. For example, should this component only be used in a banner? Should it always be placed next to a button component?",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-8456dc50-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Variants",
+    "type": "sectionHeader",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-a18e42e0-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Define how the user can interact with the component here. Does it have different sizes, or types? You can list any different states here, like hover, or focus. Connect your Figma file containing your components and display these variants in a Frame block.",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-a72bf1c0-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Content guidelines",
+    "type": "sectionHeader",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-d64b63f0-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "You might also want to add some information on what content should populate this component. For example, you could include some brief rules on error messaging for your error toast component.",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-d9320920-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Code block",
+    "type": "sectionHeader",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-f0aa0800-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Finally, when documenting individual components from your design system in detail, it’s nice to include a code block for that component too. Reach out to your developers to discover how best to display their code in one of our code blocks. ",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-ecd35d80-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "You can learn more about components in our documentation. ",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-9daa0a30-d48c-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-9e7e9840-d48c-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Do ",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d4-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Don't",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d6-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d9-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-8ceae7db-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Do ",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-e425fda5-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Don't",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-e425fda7-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-e425fdaa-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf#search-e425fdac-d484-11ed-911b-fb014ea4328e"
+  },
+  {
+    "text": "Component detail",
+    "type": "pageTitle",
+    "pageName": "Component detail",
+    "category": "COMPONENTS / Component detail",
+    "url": "/components/component-detail-rrYRzZEf"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
     "pageName": "Welcome!",
     "category": "Welcome!",
     "url": "/welcome-HjwKNusM#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
@@ -307,20 +552,6 @@
     "pageName": "Welcome!",
     "category": "Welcome!",
     "url": "/welcome-HjwKNusM"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "STYLEGUIDE",
-    "category": "STYLEGUIDE",
-    "url": "/styleguide-J95FdG5D#search-807c25f0-7992-11ee-97f7-d3da4d2c25cc"
-  },
-  {
-    "text": "STYLEGUIDE",
-    "type": "pageTitle",
-    "pageName": "STYLEGUIDE",
-    "category": "STYLEGUIDE",
-    "url": "/styleguide-J95FdG5D"
   },
   {
     "text": "This template contains some sample content on styles and design tokens. It’s ideal for documenting a specific token type, like colors. You can use what you like from it to create your own documentation, and delete anything you don’t want to keep.",
@@ -652,209 +883,6 @@
     "url": "/foundations/typography-XNZ7KEJz"
   },
   {
-    "text": "This template contains a suggested page layout for showing an overview of your design system components, including links to each component page in your documentation. \nYou can use what you like from it to create your own documentation, and delete anything you don’t want to keep. ",
-    "type": "contentBlock",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-793365a0-d47f-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Components",
-    "type": "sectionHeader",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-793365a2-d47f-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "You can use a Component Overview block to show a table with all your components, and links to them in Figma.",
-    "type": "contentBlock",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-79338cb0-d47f-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "You can learn more about components in our documentation. ",
-    "type": "contentBlock",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-79338cb3-d47f-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-f2f57950-51ef-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S#search-f39dc360-4bb1-11ec-a0dd-9f8e86820f15"
-  },
-  {
-    "text": "Component overview",
-    "type": "pageTitle",
-    "pageName": "Component overview",
-    "category": "Components / Component overview",
-    "url": "/components/component-overview-I1Tui13S"
-  },
-  {
-    "text": "This template contains some sample content on components, and a suggested page layout. You can use what you like from it to create your own documentation, and delete anything you don’t want to keep.",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-293bf111-d480-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Component title",
-    "type": "sectionHeader",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-d325d670-d483-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Start with an image or Figma frame showing your component. Include a short description in a text block if required, and then add a component checklist block to display selected properties of the component in detail.",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-d325fd80-d483-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Usage",
-    "type": "sectionHeader",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-73910990-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "You can include usage guidelines, so the consumers of your design system know when to use this component, or when to avoid it. For example, should this component only be used in a banner? Should it always be placed next to a button component?",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-8456dc50-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Variants",
-    "type": "sectionHeader",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-a18e42e0-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Define how the user can interact with the component here. Does it have different sizes, or types? You can list any different states here, like hover, or focus. Connect your Figma file containing your components and display these variants in a Frame block.",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-a72bf1c0-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Content guidelines",
-    "type": "sectionHeader",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-d64b63f0-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "You might also want to add some information on what content should populate this component. For example, you could include some brief rules on error messaging for your error toast component.",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-d9320920-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Code block",
-    "type": "sectionHeader",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-f0aa0800-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Finally, when documenting individual components from your design system in detail, it’s nice to include a code block for that component too. Reach out to your developers to discover how best to display their code in one of our code blocks. ",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-ecd35d80-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "You can learn more about components in our documentation. ",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-9daa0a30-d48c-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-9e7e9840-d48c-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Do ",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d4-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Don't",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d6-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-8ceae7d9-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-8ceae7db-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Do ",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-e425fda5-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Don't",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-e425fda7-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-e425fdaa-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf#search-e425fdac-d484-11ed-911b-fb014ea4328e"
-  },
-  {
-    "text": "Component detail",
-    "type": "pageTitle",
-    "pageName": "Component detail",
-    "category": "Components / Component detail",
-    "url": "/components/component-detail-rrYRzZEf"
-  },
-  {
     "text": "compo",
     "type": "contentBlock",
     "pageName": "Testing ",
@@ -988,34 +1016,6 @@
     "url": "/2-tabs-typography-and-comp-checklist-5peiGScw"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Live Code Snippet ",
-    "category": "Buttons / Live Code Snippet ",
-    "url": "/buttons/live-code-snippet-BD2KvaMx#search-51398910-7468-11ee-97f7-d3da4d2c25cc"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Live Code Snippet ",
-    "category": "Buttons / Live Code Snippet ",
-    "url": "/buttons/live-code-snippet-BD2KvaMx#search-4cf8ab10-7468-11ee-97f7-d3da4d2c25cc"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Live Code Snippet ",
-    "category": "Buttons / Live Code Snippet ",
-    "url": "/buttons/live-code-snippet-BD2KvaMx#search-186aa610-7304-11ee-aff5-536e955a3758"
-  },
-  {
-    "text": "Live Code Snippet ",
-    "type": "pageTitle",
-    "pageName": "Live Code Snippet ",
-    "category": "Buttons / Live Code Snippet ",
-    "url": "/buttons/live-code-snippet-BD2KvaMx"
-  },
-  {
     "text": "Icons",
     "type": "pageTitle",
     "pageName": "Icons",
@@ -1058,25 +1058,32 @@
     "url": "/styleguide/tokens-only/token-details-8iIKcDif"
   },
   {
+    "text": "WEB COMPONENTS ",
+    "type": "groupTitle",
+    "pageName": "WEB COMPONENTS ",
+    "category": "WEB COMPONENTS ",
+    "url": "/web-components/live-code-snippet-BD2KvaMx"
+  },
+  {
+    "text": "MOBILE COMPONENTS",
+    "type": "groupTitle",
+    "pageName": "MOBILE COMPONENTS",
+    "category": "MOBILE COMPONENTS",
+    "url": ""
+  },
+  {
+    "text": "COMPONENTS",
+    "type": "groupTitle",
+    "pageName": "COMPONENTS",
+    "category": "COMPONENTS",
+    "url": "/components/component-overview-I1Tui13S"
+  },
+  {
     "text": "Foundations",
     "type": "groupTitle",
     "pageName": "Foundations",
     "category": "Foundations",
     "url": "/foundations/design-tokens-bDZdeSqk"
-  },
-  {
-    "text": "Components",
-    "type": "groupTitle",
-    "pageName": "Components",
-    "category": "Components",
-    "url": "/components/component-overview-I1Tui13S"
-  },
-  {
-    "text": "Buttons",
-    "type": "groupTitle",
-    "pageName": "Buttons",
-    "category": "Buttons",
-    "url": "/buttons/live-code-snippet-BD2KvaMx"
   },
   {
     "text": "Assets",

@@ -19,19 +19,11 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/welcome-HjwKNusM</loc>
+            <loc>/web-components/live-code-snippet-BD2KvaMx</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/styleguide-J95FdG5D</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/foundations/design-tokens-bDZdeSqk</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/foundations/typography-XNZ7KEJz</loc>
+            <loc>/web-components/storybook-o6CzQxER</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
@@ -40,6 +32,18 @@
         </url>
         <url>
             <loc>/components/component-detail-rrYRzZEf</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-HjwKNusM</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/design-tokens-bDZdeSqk</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/typography-XNZ7KEJz</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
@@ -56,10 +60,6 @@
         </url>
         <url>
             <loc>/2-tabs-typography-and-comp-checklist-5peiGScw</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/buttons/live-code-snippet-BD2KvaMx</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
