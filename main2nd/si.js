@@ -45,6 +45,34 @@
   {
     "text": "",
     "type": "contentBlock",
+    "pageName": "Components Tab",
+    "category": "STYLEGUIDE / Components Tab",
+    "url": "/styleguide/components-tab-l7C3XUe2#search-e6f41240-7e2c-11ee-8a86-411ffb7fe0ee"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Components Tab",
+    "category": "STYLEGUIDE / Components Tab",
+    "url": "/styleguide/components-tab-l7C3XUe2#search-a4653121-7e2c-11ee-8a86-411ffb7fe0ee"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Components Tab",
+    "category": "STYLEGUIDE / Components Tab",
+    "url": "/styleguide/components-tab-l7C3XUe2#search-a59e7471-7e2c-11ee-8a86-411ffb7fe0ee"
+  },
+  {
+    "text": "Components Tab",
+    "type": "pageTitle",
+    "pageName": "Components Tab",
+    "category": "STYLEGUIDE / Components Tab",
+    "url": "/styleguide/components-tab-l7C3XUe2"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
     "pageName": "Live Code Snippet ",
     "category": "WEB COMPONENTS  / Live Code Snippet ",
     "url": "/web-components/live-code-snippet-BD2KvaMx#search-51398910-7468-11ee-97f7-d3da4d2c25cc"
