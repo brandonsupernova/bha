@@ -3,6 +3,10 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
+            <loc>/documentation-HjwKNusM</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/styleguide/colors/token-details-8iIKcDif</loc>
             <changefreq>weekly</changefreq>
         </url>
@@ -36,10 +40,6 @@
         </url>
         <url>
             <loc>/web-components/markdown-1LxVXAuA</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/welcome-HjwKNusM</loc>
             <changefreq>weekly</changefreq>
         </url>
    
