@@ -7,6 +7,18 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/styleguide/themes-599GOW6l</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/typography-upYGtx0d</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/components-tab-l7C3XUe2</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/styleguide/tokens-only/token-details-8iIKcDif</loc>
             <changefreq>weekly</changefreq>
         </url>
@@ -16,10 +28,6 @@
         </url>
         <url>
             <loc>/styleguide/tokens-only/token-list-WGHyZaJg</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/styleguide/components-tab-l7C3XUe2</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>

@@ -15,32 +15,25 @@
     "url": "/styleguide/colors-erZhd4Ns"
   },
   {
+    "text": "Themes",
+    "type": "pageTitle",
+    "pageName": "Themes",
+    "category": "STYLEGUIDE / Themes",
+    "url": "/styleguide/themes-599GOW6l"
+  },
+  {
+    "text": "Typography",
+    "type": "pageTitle",
+    "pageName": "Typography",
+    "category": "STYLEGUIDE / Typography",
+    "url": "/styleguide/typography-upYGtx0d"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Tokens Only/Token Details",
-    "category": "STYLEGUIDE / Tokens Only / Token Details",
-    "url": "/styleguide/tokens-only/token-details-8iIKcDif#search-a8c09c60-7994-11ee-97f7-d3da4d2c25cc"
-  },
-  {
-    "text": "Token Details",
-    "type": "pageTitle",
-    "pageName": "Tokens Only/Token Details",
-    "category": "STYLEGUIDE / Tokens Only / Token Details",
-    "url": "/styleguide/tokens-only/token-details-8iIKcDif"
-  },
-  {
-    "text": "Token Groups",
-    "type": "pageTitle",
-    "pageName": "Tokens Only/Token Groups",
-    "category": "STYLEGUIDE / Tokens Only / Token Groups",
-    "url": "/styleguide/tokens-only/token-groups-hhbwvoMn"
-  },
-  {
-    "text": "Token List",
-    "type": "pageTitle",
-    "pageName": "Tokens Only/Token List",
-    "category": "STYLEGUIDE / Tokens Only / Token List",
-    "url": "/styleguide/tokens-only/token-list-WGHyZaJg"
+    "pageName": "Components Tab",
+    "category": "STYLEGUIDE / Components Tab",
+    "url": "/styleguide/components-tab-l7C3XUe2#search-0c6cd1a0-7e47-11ee-8a86-411ffb7fe0ee"
   },
   {
     "text": "",
@@ -69,6 +62,34 @@
     "pageName": "Components Tab",
     "category": "STYLEGUIDE / Components Tab",
     "url": "/styleguide/components-tab-l7C3XUe2"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Tokens Only/Token Details",
+    "category": "STYLEGUIDE / Tokens Only / Token Details",
+    "url": "/styleguide/tokens-only/token-details-8iIKcDif#search-a8c09c60-7994-11ee-97f7-d3da4d2c25cc"
+  },
+  {
+    "text": "Token Details",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token Details",
+    "category": "STYLEGUIDE / Tokens Only / Token Details",
+    "url": "/styleguide/tokens-only/token-details-8iIKcDif"
+  },
+  {
+    "text": "Token Groups",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token Groups",
+    "category": "STYLEGUIDE / Tokens Only / Token Groups",
+    "url": "/styleguide/tokens-only/token-groups-hhbwvoMn"
+  },
+  {
+    "text": "Token List",
+    "type": "pageTitle",
+    "pageName": "Tokens Only/Token List",
+    "category": "STYLEGUIDE / Tokens Only / Token List",
+    "url": "/styleguide/tokens-only/token-list-WGHyZaJg"
   },
   {
     "text": "",
