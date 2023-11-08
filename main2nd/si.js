@@ -138,13 +138,6 @@
     "type": "contentBlock",
     "pageName": "Calendar Component",
     "category": "WEB COMPONENTS  / Calendar Component",
-    "url": "/web-components/calendar-component-BD2KvaMx#search-51398910-7468-11ee-97f7-d3da4d2c25cc"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Calendar Component",
-    "category": "WEB COMPONENTS  / Calendar Component",
     "url": "/web-components/calendar-component-BD2KvaMx#search-4cf8ab10-7468-11ee-97f7-d3da4d2c25cc"
   },
   {
@@ -209,6 +202,13 @@
     "pageName": "Storybook",
     "category": "WEB COMPONENTS  / Storybook",
     "url": "/web-components/storybook-o6CzQxER"
+  },
+  {
+    "text": "Markdown",
+    "type": "pageTitle",
+    "pageName": "Markdown",
+    "category": "WEB COMPONENTS  / Markdown",
+    "url": "/web-components/markdown-1LxVXAuA"
   },
   {
     "text": "",
