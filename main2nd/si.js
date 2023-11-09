@@ -8,6 +8,13 @@
     "url": "/documentation-HjwKNusM#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation ",
+    "category": "Documentation ",
+    "url": "/documentation-HjwKNusM#search-8d99c4e0-7efb-11ee-8a86-411ffb7fe0ee"
+  },
+  {
     "text": "In case/ you're not too sure where to begin, we've provided some templates for you to fill out. You can also learn more about different parts of the product, and how to join our community, right here.",
     "type": "contentBlock",
     "pageName": "Documentation ",
