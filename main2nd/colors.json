@@ -723,6 +723,21 @@
     "test-token": {
       "value": "#d61515ff",
       "type": "color"
+    },
+    "felipe-test-12": {
+      "value": "#7a6e41ff",
+      "type": "color",
+      "comment": "Fun Logos"
+    },
+    "felipe-brand": {
+      "value": "#3e2893ff",
+      "type": "color",
+      "comment": "Primary"
+    },
+    "color-me": {
+      "value": "#244519ff",
+      "type": "color",
+      "comment": "Test"
     }
   }
 }

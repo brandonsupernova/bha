@@ -791,6 +791,185 @@
         }
       },
       "type": "typography"
+    },
+    "felipe-poppins-3": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Poppins"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 20
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography",
+      "comment": "Test"
+    },
+    "cali-felipe": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Calligraffitti"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 55
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography"
+    },
+    "canterbury": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Canterbury"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography",
+      "comment": "Fancy Things"
     }
   }
 }
