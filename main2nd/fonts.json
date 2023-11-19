@@ -1,3 +1,30 @@
 {
-  "font": {}
+  "font": {
+    "token-1": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Inter"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "regular"
+        }
+      },
+      "type": "font"
+    },
+    "poppins": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Poppins"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "100"
+        }
+      },
+      "type": "font"
+    }
+  }
 }
