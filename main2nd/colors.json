@@ -2,10 +2,6 @@
   "color": {
     "palette": {
       "green": {
-        "green-1100": {
-          "value": "#0e2a21ff",
-          "type": "color"
-        },
         "green-1000": {
           "value": "#1c4130ff",
           "type": "color"
@@ -49,11 +45,15 @@
         "green-0": {
           "value": "#eef9ecff",
           "type": "color"
+        },
+        "green-1100": {
+          "value": "#0e2a21ff",
+          "type": "color"
         }
       },
       "blue": {
         "blue-1100": {
-          "value": "#082036ff",
+          "value": "#00213fff",
           "type": "color"
         },
         "blue-1000": {
@@ -559,35 +559,35 @@
     "semantic": {
       "primary": {
         "primary-activebackground": {
-          "value": "#58c1b2ff",
+          "value": "#453e96ff",
           "type": "color"
         },
         "primary-hoverbackground": {
-          "value": "#6addc6ff",
+          "value": "#5a52b4ff",
           "type": "color"
         },
         "primary-hovercolor": {
-          "value": "#1b3e3eff",
+          "value": "#ffffffff",
           "type": "color"
         },
         "primary-background": {
-          "value": "#97e7d5ff",
+          "value": "#6b62ccff",
           "type": "color"
         },
         "primary-color": {
-          "value": "#2a6461ff",
+          "value": "#ffffffff",
           "type": "color"
         },
-        "cta-primary-activebackground": {
-          "value": "#dfe1e1ff",
+        "primary-innactivebackground": {
+          "value": "#d8d8f6ff",
           "type": "color"
         },
         "primary-border": {
-          "value": "#2a6461ff",
+          "value": "#6b62ccff",
           "type": "color"
         },
         "hoverinnactivebackground": {
-          "value": "#c9ccccff",
+          "value": "#c0c2f3ff",
           "type": "color"
         }
       },
@@ -665,79 +665,90 @@
       },
       "info": {
         "info-color": {
-          "value": "#6b62ccff",
+          "value": "#3a79bdff",
           "type": "color"
         },
         "info-icon": {
-          "value": "#5a52b4ff",
+          "value": "#306ca5ff",
           "type": "color"
         },
         "info-border": {
-          "value": "#9e95ecff",
+          "value": "#6aacefff",
           "type": "color"
         },
         "info-background": {
-          "value": "#eaeaf8ff",
+          "value": "#e0f1feff",
           "type": "color"
         }
       },
       "opportunity": {
         "opportunity-color": {
-          "value": "#a43b5bff",
+          "value": "#357a7bff",
           "type": "color"
         },
         "opportunity-icon": {
-          "value": "#a43b5bff",
+          "value": "#357a7bff",
           "type": "color"
         },
         "opportunity-border": {
-          "value": "#ee7fadff",
+          "value": "#6addc6ff",
           "type": "color"
         },
         "opportunity-background": {
-          "value": "#f7dceaff",
+          "value": "#d5f6efff",
+          "type": "color"
+        }
+      },
+      "sale": {
+        "sale70-background": {
+          "value": "#ac7d13ff",
+          "type": "color"
+        },
+        "sale50-background": {
+          "value": "#b51d4eff",
+          "type": "color"
+        },
+        "sale30-background": {
+          "value": "#5869c1ff",
+          "type": "color"
+        },
+        "sale-color": {
+          "value": "#b7b7b7ff",
           "type": "color"
         }
       }
     },
-    "special": {
-      "rating": {
-        "rating-on": {
-          "value": "#f6be41ff",
-          "type": "color"
-        },
-        "rating-hoveron": {
-          "value": "#d49b35ff",
-          "type": "color"
-        },
-        "rating-off": {
-          "value": "#dfe1e1ff",
-          "type": "color"
-        },
-        "rating-hoveroff": {
-          "value": "#f6be41ff",
-          "type": "color"
-        }
-      }
-    },
-    "test-token": {
-      "value": "#d61515ff",
+    "bha-test-black": {
+      "value": "#db0e0eff",
       "type": "color"
     },
-    "felipe-test-12": {
-      "value": "#7a6e41ff",
-      "type": "color",
-      "comment": "Fun Logos"
+    "token-1": {
+      "value": "#ffffffff",
+      "type": "color"
     },
-    "felipe-brand": {
-      "value": "#3e2893ff",
-      "type": "color",
-      "comment": "Primary"
+    "new-style": {
+      "value": "#0e2a21ff",
+      "type": "color"
     },
-    "color-me": {
-      "value": "#244519ff",
-      "type": "color",
-      "comment": "Test"
+    "dark-blue": {
+      "value": "#9d1d79ff",
+      "type": "color"
+    },
+    "token-2": {
+      "value": "#ffffffff",
+      "type": "color"
+    },
+    "token-3": {
+      "value": "#db0e0eff",
+      "type": "color"
+    },
+    "token-4": {
+      "value": "#0b2737ff",
+      "type": "color"
+    },
+    "token-5": {
+      "value": "#ffffffff",
+      "type": "color"
     }
   }
 }
