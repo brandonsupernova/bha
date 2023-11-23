@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="dark_blue">#ff9d1d79</color>
     <color name="bha_test_black">#ffdb0e0e</color>
     <color name="token_1">#ffffffff</color>
     <color name="token_2">#ffffffff</color>
@@ -8,7 +9,6 @@
     <color name="new_style">#ff0e2a21</color>
     <color name="token_5">#ffffffff</color>
     <color name="token_6">#ffffffff</color>
-    <color name="dark_blue">#ff9d1d79</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
