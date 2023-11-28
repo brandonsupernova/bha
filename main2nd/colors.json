@@ -742,6 +742,10 @@
     "token-1": {
       "value": "#ffffffff",
       "type": "color"
+    },
+    "token-2": {
+      "value": "#ffffffff",
+      "type": "color"
     }
   }
 }
