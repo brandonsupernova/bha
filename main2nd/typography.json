@@ -39,7 +39,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -111,7 +111,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -183,7 +183,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -255,7 +255,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -327,7 +327,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -399,7 +399,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -471,7 +471,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -543,7 +543,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -615,7 +615,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -687,7 +687,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -759,7 +759,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -831,7 +831,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -903,7 +903,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
@@ -963,7 +963,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "pixels"
+              "value": "percent"
             }
           }
         },
