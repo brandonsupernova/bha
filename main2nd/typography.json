@@ -7,11 +7,11 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "700"
             }
           }
         },
@@ -79,11 +79,11 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "700"
             }
           }
         },
@@ -151,11 +151,11 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "700"
             }
           }
         },
@@ -223,11 +223,11 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "700"
             }
           }
         },
@@ -295,11 +295,11 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "700"
             }
           }
         },
@@ -367,7 +367,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -439,7 +439,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -511,7 +511,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -533,7 +533,7 @@
           }
         },
         "textDecoration": "None",
-        "textCase": "Original",
+        "textCase": "Upper",
         "letterSpacing": {
           "type": "measure",
           "value": {
@@ -583,7 +583,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -655,7 +655,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -727,7 +727,7 @@
           "value": {
             "family": {
               "type": "string",
-              "value": "Inter"
+              "value": "Advent Pro"
             },
             "subfamily": {
               "type": "string",
@@ -792,7 +792,139 @@
       },
       "type": "typography"
     },
-    "felipe-poppins-3": {
+    "sale": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Advent Pro"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "700"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Upper",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "lineHeight": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 32
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography"
+    },
+    "impact-label": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Impact Label"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 13
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography",
+      "comment": "typewriter font test"
+    },
+    "poppins": {
       "value": {
         "font": {
           "type": "font",
@@ -812,7 +944,7 @@
           "value": {
             "measure": {
               "type": "size",
-              "value": 20
+              "value": 13
             },
             "unit": {
               "type": "string",
@@ -850,20 +982,20 @@
         }
       },
       "type": "typography",
-      "comment": "Test"
+      "comment": "importing test"
     },
-    "cali-felipe": {
+    "token-1": {
       "value": {
         "font": {
           "type": "font",
           "value": {
             "family": {
               "type": "string",
-              "value": "Calligraffitti"
+              "value": "Inter"
             },
             "subfamily": {
               "type": "string",
-              "value": "400"
+              "value": "regular"
             }
           }
         },
@@ -872,7 +1004,7 @@
           "value": {
             "measure": {
               "type": "size",
-              "value": 55
+              "value": 14
             },
             "unit": {
               "type": "string",
@@ -901,6 +1033,19 @@
             "measure": {
               "type": "size",
               "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "lineHeight": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 20
             },
             "unit": {
               "type": "string",
@@ -910,66 +1055,6 @@
         }
       },
       "type": "typography"
-    },
-    "canterbury": {
-      "value": {
-        "font": {
-          "type": "font",
-          "value": {
-            "family": {
-              "type": "string",
-              "value": "Canterbury"
-            },
-            "subfamily": {
-              "type": "string",
-              "value": "400"
-            }
-          }
-        },
-        "fontSize": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 16
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "textDecoration": "None",
-        "textCase": "Original",
-        "letterSpacing": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "percent"
-            }
-          }
-        },
-        "paragraphIndent": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        }
-      },
-      "type": "typography",
-      "comment": "Fancy Things"
     }
   }
 }
