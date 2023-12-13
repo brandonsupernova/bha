@@ -609,24 +609,6 @@
           "type": "color"
         }
       },
-      "error": {
-        "error-color": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-icon": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-border": {
-          "value": "#ef8674ff",
-          "type": "color"
-        },
-        "error-background": {
-          "value": "#f8d7d3ff",
-          "type": "color"
-        }
-      },
       "warning": {
         "warning-color": {
           "value": "#8b4f1fff",
@@ -714,6 +696,24 @@
         },
         "sale-color": {
           "value": "#b7b7b7ff",
+          "type": "color"
+        }
+      },
+      "error": {
+        "error-color": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-icon": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-border": {
+          "value": "#ef8674ff",
+          "type": "color"
+        },
+        "error-background": {
+          "value": "#f8d7d3ff",
           "type": "color"
         }
       }
