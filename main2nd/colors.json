@@ -781,6 +781,10 @@
     "token-13": {
       "value": "#ffffffff",
       "type": "color"
+    },
+    "token-14": {
+      "value": "#ffffffff",
+      "type": "color"
     }
   }
 }
