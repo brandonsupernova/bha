@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="blue_200">#ffffffff</color>
     <color name="white">#ffffffff</color>
+
+    <color name="foreground_neutral">#ff14171f</color>
+    <color name="foreground_neutral_faded">#ff606981</color>
+    <color name="foreground_primary">#ff104fc6</color>
+    <color name="foreground_critical">#ffcb101d</color>
+    <color name="foreground_warning">#ffb53c0a</color>
+    <color name="foreground_positive">#ff05751f</color>
+    <color name="foreground_upgrade">#ff874ce6</color>
+    <color name="foreground_disabled">#ffc7cddb</color>
+    <color name="foreground_placeholder">#ff7f8694</color>
 
     <color name="border_neutral">#ffc7cddb</color>
     <color name="border_neutral_faded">#ffeceef3</color>
@@ -74,16 +85,6 @@
 
     <color name="red_red_100">#fffef1f2</color>
     <color name="red_red_600">#ffcb101d</color>
-
-    <color name="foreground_neutral">#ff14171f</color>
-    <color name="foreground_neutral_faded">#ff606981</color>
-    <color name="foreground_primary">#ff104fc6</color>
-    <color name="foreground_critical">#ffcb101d</color>
-    <color name="foreground_warning">#ffb53c0a</color>
-    <color name="foreground_positive">#ff05751f</color>
-    <color name="foreground_upgrade">#ff874ce6</color>
-    <color name="foreground_disabled">#ffc7cddb</color>
-    <color name="foreground_placeholder">#ff7f8694</color>
 
     <color name="background_elevation_base">#ffffffff</color>
     <color name="background_elevation_raised">#ffffffff</color>
