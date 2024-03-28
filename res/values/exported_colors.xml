@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="blue_200">#ffffffff</color>
+    <color name="test">#ff5d2121</color>
     <color name="white">#ffffffff</color>
 
     <color name="foreground_neutral">#ff14171f</color>
