@@ -13,6 +13,7 @@
     <color name="token_9">#ffffffff</color>
     <color name="token_10">#ffffffff</color>
     <color name="token_11">#ffffffff</color>
+    <color name="token_12">#ffffffff</color>
     <!-- 
         Fun Logos 
     -->
@@ -25,7 +26,6 @@
         Test 
     -->
     <color name="color_me">#ff244519</color>
-    <color name="token_12">#ffffffff</color>
 
 
     <color name="special_rating_rating_on">#fff6be41</color>
