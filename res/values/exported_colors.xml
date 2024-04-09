@@ -2,6 +2,7 @@
 <resources>
     <color name="blue_200">#ffffffff</color>
     <color name="test">#ff5d2121</color>
+    <color name="test_1">#ffffffff</color>
     <color name="white">#ffffffff</color>
 
     <color name="foreground_neutral">#ff14171f</color>
