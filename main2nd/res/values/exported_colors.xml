@@ -171,19 +171,6 @@
     <color name="palette_yellow_yellow_100">#fffbeed1</color>
     <color name="palette_yellow_yellow_0">#fffef8e4</color>
 
-    <color name="palette_magenta_magenta_1100">#ff271a2c</color>
-    <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
-    <color name="palette_magenta_magenta_900">#ff642a73</color>
-    <color name="palette_magenta_magenta_800">#ff854091</color>
-    <color name="palette_magenta_magenta_700">#ffa04da3</color>
-    <color name="palette_magenta_magenta_600">#ffb659b4</color>
-    <color name="palette_magenta_magenta_500">#ffcc6bd5</color>
-    <color name="palette_magenta_magenta_400">#ffe38aef</color>
-    <color name="palette_magenta_magenta_300">#ffe3b1ee</color>
-    <color name="palette_magenta_magenta_200">#ffecc7f4</color>
-    <color name="palette_magenta_magenta_100">#fff5e4fa</color>
-    <color name="palette_magenta_magenta_0">#fffcf0fe</color>
-
     <color name="palette_green_green_1100">#ff0e2a21</color>
     <color name="palette_green_green_1000">#ff1c4130</color>
     <color name="palette_green_green_900">#ff2d6944</color>
@@ -228,6 +215,19 @@
     <color name="palette_purple_purple_200">#ffd8d8f6</color>
     <color name="palette_purple_purple_100">#ffeaeaf8</color>
     <color name="palette_purple_purple_0">#fff2f2f8</color>
+
+    <color name="palette_magenta_magenta_1100">#ff271a2c</color>
+    <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
+    <color name="palette_magenta_magenta_900">#ff642a73</color>
+    <color name="palette_magenta_magenta_800">#ff854091</color>
+    <color name="palette_magenta_magenta_700">#ffa04da3</color>
+    <color name="palette_magenta_magenta_600">#ffb659b4</color>
+    <color name="palette_magenta_magenta_500">#ffcc6bd5</color>
+    <color name="palette_magenta_magenta_400">#ffe38aef</color>
+    <color name="palette_magenta_magenta_300">#ffe3b1ee</color>
+    <color name="palette_magenta_magenta_200">#ffecc7f4</color>
+    <color name="palette_magenta_magenta_100">#fff5e4fa</color>
+    <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
 
 </resources>
