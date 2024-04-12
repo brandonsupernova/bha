@@ -50,16 +50,6 @@
     <color name="orange_orange_500">#ffcc4d00</color>
     <color name="orange_orange_600">#ffb53c0a</color>
 
-    <color name="foreground_neutral">#ff14171f</color>
-    <color name="foreground_neutral_faded">#ff606981</color>
-    <color name="foreground_primary">#ff104fc6</color>
-    <color name="foreground_critical">#ffcb101d</color>
-    <color name="foreground_warning">#ffb53c0a</color>
-    <color name="foreground_positive">#ff05751f</color>
-    <color name="foreground_upgrade">#ff874ce6</color>
-    <color name="foreground_disabled">#ffc7cddb</color>
-    <color name="foreground_placeholder">#ff7f8694</color>
-
     <color name="persistent_black">#ff14171f</color>
     <color name="persistent_white">#ffffffff</color>
 
@@ -129,6 +119,16 @@
     <color name="background_disabled">#0a182d66</color>
     <color name="background_disabled_faded">#05141a2b</color>
     <color name="background_focus_highlight">#ffd0e2ff</color>
+
+    <color name="foreground_neutral">#ff14171f</color>
+    <color name="foreground_neutral_faded">#ff606981</color>
+    <color name="foreground_primary">#ff104fc6</color>
+    <color name="foreground_critical">#ffcb101d</color>
+    <color name="foreground_warning">#ffb53c0a</color>
+    <color name="foreground_positive">#ff05751f</color>
+    <color name="foreground_upgrade">#ff874ce6</color>
+    <color name="foreground_disabled">#ffc7cddb</color>
+    <color name="foreground_placeholder">#ff7f8694</color>
 
     <color name="primary_primary_200">#ffedf5ff</color>
     <color name="primary_primary_400">#ffd0e2ff</color>
