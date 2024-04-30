@@ -226,24 +226,6 @@
         "type": "color"
       }
     },
-    "orange": {
-      "orange-100": {
-        "value": "#fef8ebff",
-        "type": "color"
-      },
-      "orange-200": {
-        "value": "#fbe5c5ff",
-        "type": "color"
-      },
-      "orange-500": {
-        "value": "#cc4d00ff",
-        "type": "color"
-      },
-      "orange-600": {
-        "value": "#b53c0aff",
-        "type": "color"
-      }
-    },
     "persistent": {
       "black": {
         "value": "{color.neutral.neutral-900.value}",
@@ -433,6 +415,24 @@
       },
       "red-background": {
         "value": "{color.red.red-100.value}",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "orange-100": {
+        "value": "#fef8ebff",
+        "type": "color"
+      },
+      "orange-200": {
+        "value": "#fbe5c5ff",
+        "type": "color"
+      },
+      "orange-500": {
+        "value": "#cc4d00ff",
+        "type": "color"
+      },
+      "orange-600": {
+        "value": "#b53c0aff",
         "type": "color"
       }
     },
