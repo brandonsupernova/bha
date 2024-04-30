@@ -186,6 +186,19 @@
     <color name="palette_aqua_aqua_100">#ffd0f7f8</color>
     <color name="palette_aqua_aqua_0">#ffe0fbfb</color>
 
+    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
+    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
+    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
+    <color name="palette_yellow_yellow_800">#ffb0772a</color>
+    <color name="palette_yellow_yellow_700">#ffd49b35</color>
+    <color name="palette_yellow_yellow_600">#fff6be41</color>
+    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
+    <color name="palette_yellow_yellow_400">#fffad961</color>
+    <color name="palette_yellow_yellow_300">#fffbe17f</color>
+    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
+    <color name="palette_yellow_yellow_100">#fffbeed1</color>
+    <color name="palette_yellow_yellow_0">#fffef8e4</color>
+
     <color name="palette_purple_purple_1100">#ff1d1e36</color>
     <color name="palette_purple_purple_1000">#ff2b2667</color>
     <color name="palette_purple_purple_900">#ff453e96</color>
@@ -267,19 +280,6 @@
     <color name="palette_orange_orange_100">#fff7ddce</color>
     <color name="palette_orange_orange_0">#fffceee4</color>
 
-    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
-    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
-    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
-    <color name="palette_yellow_yellow_800">#ffb0772a</color>
-    <color name="palette_yellow_yellow_700">#ffd49b35</color>
-    <color name="palette_yellow_yellow_600">#fff6be41</color>
-    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
-    <color name="palette_yellow_yellow_400">#fffad961</color>
-    <color name="palette_yellow_yellow_300">#fffbe17f</color>
-    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
-    <color name="palette_yellow_yellow_100">#fffbeed1</color>
-    <color name="palette_yellow_yellow_0">#fffef8e4</color>
-
     <color name="palette_magenta_magenta_1100">#ff271a2c</color>
     <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
     <color name="palette_magenta_magenta_900">#ff642a73</color>
@@ -293,15 +293,6 @@
     <color name="palette_magenta_magenta_100">#fff5e4fa</color>
     <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
-
-    <color name="semantic_primary_primary_active_background">#ff453e96</color>
-    <color name="semantic_primary_primary_hover_background">#ff5a52b4</color>
-    <color name="semantic_primary_primary_hover_color">#ffffffff</color>
-    <color name="semantic_primary_primary_background">#ff6b62cc</color>
-    <color name="semantic_primary_primary_color">#ffffffff</color>
-    <color name="semantic_primary_primary_innactive_background">#ffd8d8f6</color>
-    <color name="semantic_primary_primary_border">#ff6b62cc</color>
-    <color name="semantic_primary_hover_innactive_background">#ffc0c2f3</color>
 
     <color name="semantic_text_text_inverse">#ffffffff</color>
     <color name="semantic_text_text_subtext">#ff545e5f</color>
@@ -332,6 +323,15 @@
     <color name="semantic_opportunity_opportunity_icon">#ff357a7b</color>
     <color name="semantic_opportunity_opportunity_border">#ff6addc6</color>
     <color name="semantic_opportunity_opportunity_background">#ffd5f6ef</color>
+
+    <color name="semantic_primary_primary_active_background">#ff453e96</color>
+    <color name="semantic_primary_primary_hover_background">#ff5a52b4</color>
+    <color name="semantic_primary_primary_hover_color">#ffffffff</color>
+    <color name="semantic_primary_primary_background">#ff6b62cc</color>
+    <color name="semantic_primary_primary_color">#ffffffff</color>
+    <color name="semantic_primary_primary_innactive_background">#ffd8d8f6</color>
+    <color name="semantic_primary_primary_border">#ff6b62cc</color>
+    <color name="semantic_primary_hover_innactive_background">#ffc0c2f3</color>
 
     <color name="semantic_sale_sale_70_background">#ffac7d13</color>
     <color name="semantic_sale_sale_50_background">#ffb51d4e</color>
