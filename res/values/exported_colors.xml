@@ -36,22 +36,6 @@
     <color name="background_disabled_faded">#05141a2b</color>
     <color name="background_focus_highlight">#ffd0e2ff</color>
 
-    <color name="border_neutral">#ffc7cddb</color>
-    <color name="border_neutral_faded">#ffeceef3</color>
-    <color name="border_primary">#ff004ee1</color>
-    <color name="border_primary_faded">#ffd0e2ff</color>
-    <color name="border_critical">#ffcb101d</color>
-    <color name="border_critical_faded">#fffbd5d8</color>
-    <color name="border_warning">#ffb53c0a</color>
-    <color name="border_warning_faded">#fffbe5c5</color>
-    <color name="border_positive">#ff05751f</color>
-    <color name="border_positive_faded">#ffcdedd5</color>
-    <color name="border_upgrade">#ff6a2bbf</color>
-    <color name="border_upgrade_faded">#ffe3dbfa</color>
-    <color name="border_disabled">#ffdfe2ea</color>
-    <color name="border_focus">#ff4589ff</color>
-    <color name="border_focus_faded">#ffd0e2ff</color>
-
     <color name="neutral_neutral_100_opaque">#05141a2b</color>
     <color name="neutral_neutral_200_opaque">#0a182d66</color>
     <color name="neutral_neutral_400">#ff606981</color>
@@ -120,6 +104,29 @@
     <color name="orange_orange_500">#ffcc4d00</color>
     <color name="orange_orange_600">#ffb53c0a</color>
 
+    <color name="primary_primary_200">#ffedf5ff</color>
+    <color name="primary_primary_400">#ffd0e2ff</color>
+    <color name="primary_primary_500">#ff8cb4ff</color>
+    <color name="primary_primary_600">#ff0f62fe</color>
+    <color name="primary_primary_700">#ff004ee1</color>
+    <color name="primary_primary_800">#ff104fc6</color>
+
+    <color name="border_neutral">#ffc7cddb</color>
+    <color name="border_neutral_faded">#ffeceef3</color>
+    <color name="border_primary">#ff004ee1</color>
+    <color name="border_primary_faded">#ffd0e2ff</color>
+    <color name="border_critical">#ffcb101d</color>
+    <color name="border_critical_faded">#fffbd5d8</color>
+    <color name="border_warning">#ffb53c0a</color>
+    <color name="border_warning_faded">#fffbe5c5</color>
+    <color name="border_positive">#ff05751f</color>
+    <color name="border_positive_faded">#ffcdedd5</color>
+    <color name="border_upgrade">#ff6a2bbf</color>
+    <color name="border_upgrade_faded">#ffe3dbfa</color>
+    <color name="border_disabled">#ffdfe2ea</color>
+    <color name="border_focus">#ff4589ff</color>
+    <color name="border_focus_faded">#ffd0e2ff</color>
+
     <color name="foreground_neutral">#ff14171f</color>
     <color name="foreground_neutral_faded">#ff606981</color>
     <color name="foreground_primary">#ff104fc6</color>
@@ -129,13 +136,6 @@
     <color name="foreground_upgrade">#ff874ce6</color>
     <color name="foreground_disabled">#ffc7cddb</color>
     <color name="foreground_placeholder">#ff7f8694</color>
-
-    <color name="primary_primary_200">#ffedf5ff</color>
-    <color name="primary_primary_400">#ffd0e2ff</color>
-    <color name="primary_primary_500">#ff8cb4ff</color>
-    <color name="primary_primary_600">#ff0f62fe</color>
-    <color name="primary_primary_700">#ff004ee1</color>
-    <color name="primary_primary_800">#ff104fc6</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
@@ -185,19 +185,6 @@
     <color name="palette_aqua_aqua_200">#ffb5f0f1</color>
     <color name="palette_aqua_aqua_100">#ffd0f7f8</color>
     <color name="palette_aqua_aqua_0">#ffe0fbfb</color>
-
-    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
-    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
-    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
-    <color name="palette_yellow_yellow_800">#ffb0772a</color>
-    <color name="palette_yellow_yellow_700">#ffd49b35</color>
-    <color name="palette_yellow_yellow_600">#fff6be41</color>
-    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
-    <color name="palette_yellow_yellow_400">#fffad961</color>
-    <color name="palette_yellow_yellow_300">#fffbe17f</color>
-    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
-    <color name="palette_yellow_yellow_100">#fffbeed1</color>
-    <color name="palette_yellow_yellow_0">#fffef8e4</color>
 
     <color name="palette_purple_purple_1100">#ff1d1e36</color>
     <color name="palette_purple_purple_1000">#ff2b2667</color>
@@ -280,6 +267,19 @@
     <color name="palette_orange_orange_100">#fff7ddce</color>
     <color name="palette_orange_orange_0">#fffceee4</color>
 
+    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
+    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
+    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
+    <color name="palette_yellow_yellow_800">#ffb0772a</color>
+    <color name="palette_yellow_yellow_700">#ffd49b35</color>
+    <color name="palette_yellow_yellow_600">#fff6be41</color>
+    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
+    <color name="palette_yellow_yellow_400">#fffad961</color>
+    <color name="palette_yellow_yellow_300">#fffbe17f</color>
+    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
+    <color name="palette_yellow_yellow_100">#fffbeed1</color>
+    <color name="palette_yellow_yellow_0">#fffef8e4</color>
+
     <color name="palette_magenta_magenta_1100">#ff271a2c</color>
     <color name="palette_magenta_magenta_1000">#ff3f1a4e</color>
     <color name="palette_magenta_magenta_900">#ff642a73</color>
@@ -293,6 +293,15 @@
     <color name="palette_magenta_magenta_100">#fff5e4fa</color>
     <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
+
+    <color name="semantic_primary_primary_active_background">#ff453e96</color>
+    <color name="semantic_primary_primary_hover_background">#ff5a52b4</color>
+    <color name="semantic_primary_primary_hover_color">#ffffffff</color>
+    <color name="semantic_primary_primary_background">#ff6b62cc</color>
+    <color name="semantic_primary_primary_color">#ffffffff</color>
+    <color name="semantic_primary_primary_innactive_background">#ffd8d8f6</color>
+    <color name="semantic_primary_primary_border">#ff6b62cc</color>
+    <color name="semantic_primary_hover_innactive_background">#ffc0c2f3</color>
 
     <color name="semantic_text_text_inverse">#ffffffff</color>
     <color name="semantic_text_text_subtext">#ff545e5f</color>
@@ -323,15 +332,6 @@
     <color name="semantic_opportunity_opportunity_icon">#ff357a7b</color>
     <color name="semantic_opportunity_opportunity_border">#ff6addc6</color>
     <color name="semantic_opportunity_opportunity_background">#ffd5f6ef</color>
-
-    <color name="semantic_primary_primary_active_background">#ff453e96</color>
-    <color name="semantic_primary_primary_hover_background">#ff5a52b4</color>
-    <color name="semantic_primary_primary_hover_color">#ffffffff</color>
-    <color name="semantic_primary_primary_background">#ff6b62cc</color>
-    <color name="semantic_primary_primary_color">#ffffffff</color>
-    <color name="semantic_primary_primary_innactive_background">#ffd8d8f6</color>
-    <color name="semantic_primary_primary_border">#ff6b62cc</color>
-    <color name="semantic_primary_hover_innactive_background">#ffc0c2f3</color>
 
     <color name="semantic_sale_sale_70_background">#ffac7d13</color>
     <color name="semantic_sale_sale_50_background">#ffb51d4e</color>
