@@ -654,6 +654,56 @@
           "type": "color"
         }
       },
+      "yellow": {
+        "yellow-1100": {
+          "value": "#2a1b08ff",
+          "type": "color"
+        },
+        "yellow-1000": {
+          "value": "#4e2c0bff",
+          "type": "color"
+        },
+        "yellow-900": {
+          "value": "#8b4f1fff",
+          "type": "color"
+        },
+        "yellow-800": {
+          "value": "#b0772aff",
+          "type": "color"
+        },
+        "yellow-700": {
+          "value": "#d49b35ff",
+          "type": "color"
+        },
+        "yellow-600": {
+          "value": "#f6be41ff",
+          "type": "color"
+        },
+        "yellow-500": {
+          "value": "#f8ce4cff",
+          "type": "color"
+        },
+        "yellow-400": {
+          "value": "#fad961ff",
+          "type": "color"
+        },
+        "yellow-300": {
+          "value": "#fbe17fff",
+          "type": "color"
+        },
+        "yellow-200": {
+          "value": "#fbe9a4ff",
+          "type": "color"
+        },
+        "yellow-100": {
+          "value": "#fbeed1ff",
+          "type": "color"
+        },
+        "yellow-0": {
+          "value": "#fef8e4ff",
+          "type": "color"
+        }
+      },
       "purple": {
         "purple-1100": {
           "value": "#1d1e36ff",
@@ -955,56 +1005,6 @@
           "type": "color"
         }
       },
-      "yellow": {
-        "yellow-1100": {
-          "value": "#2a1b08ff",
-          "type": "color"
-        },
-        "yellow-1000": {
-          "value": "#4e2c0bff",
-          "type": "color"
-        },
-        "yellow-900": {
-          "value": "#8b4f1fff",
-          "type": "color"
-        },
-        "yellow-800": {
-          "value": "#b0772aff",
-          "type": "color"
-        },
-        "yellow-700": {
-          "value": "#d49b35ff",
-          "type": "color"
-        },
-        "yellow-600": {
-          "value": "#f6be41ff",
-          "type": "color"
-        },
-        "yellow-500": {
-          "value": "#f8ce4cff",
-          "type": "color"
-        },
-        "yellow-400": {
-          "value": "#fad961ff",
-          "type": "color"
-        },
-        "yellow-300": {
-          "value": "#fbe17fff",
-          "type": "color"
-        },
-        "yellow-200": {
-          "value": "#fbe9a4ff",
-          "type": "color"
-        },
-        "yellow-100": {
-          "value": "#fbeed1ff",
-          "type": "color"
-        },
-        "yellow-0": {
-          "value": "#fef8e4ff",
-          "type": "color"
-        }
-      },
       "magenta": {
         "magenta-1100": {
           "value": "#271a2cff",
@@ -1057,40 +1057,6 @@
       }
     },
     "semantic": {
-      "primary": {
-        "primary-activebackground": {
-          "value": "#453e96ff",
-          "type": "color"
-        },
-        "primary-hoverbackground": {
-          "value": "#5a52b4ff",
-          "type": "color"
-        },
-        "primary-hovercolor": {
-          "value": "#ffffffff",
-          "type": "color"
-        },
-        "primary-background": {
-          "value": "#6b62ccff",
-          "type": "color"
-        },
-        "primary-color": {
-          "value": "#ffffffff",
-          "type": "color"
-        },
-        "primary-innactivebackground": {
-          "value": "#d8d8f6ff",
-          "type": "color"
-        },
-        "primary-border": {
-          "value": "#6b62ccff",
-          "type": "color"
-        },
-        "hoverinnactivebackground": {
-          "value": "#c0c2f3ff",
-          "type": "color"
-        }
-      },
       "text": {
         "text-inverse": {
           "value": "#ffffffff",
@@ -1196,6 +1162,40 @@
         },
         "opportunity-background": {
           "value": "#d5f6efff",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "primary-activebackground": {
+          "value": "#453e96ff",
+          "type": "color"
+        },
+        "primary-hoverbackground": {
+          "value": "#5a52b4ff",
+          "type": "color"
+        },
+        "primary-hovercolor": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "primary-background": {
+          "value": "#6b62ccff",
+          "type": "color"
+        },
+        "primary-color": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "primary-innactivebackground": {
+          "value": "#d8d8f6ff",
+          "type": "color"
+        },
+        "primary-border": {
+          "value": "#6b62ccff",
+          "type": "color"
+        },
+        "hoverinnactivebackground": {
+          "value": "#c0c2f3ff",
           "type": "color"
         }
       },
