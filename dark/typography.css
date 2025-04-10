@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
+.theme-dark {
   --Typography-H1: 700 57px/64px "Roboto";
   --Typography-H2: 700 43px/50px "Roboto";
   --Typography-H3: 700 32px/40px "Roboto";

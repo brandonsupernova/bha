@@ -3,6 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --Opacity-Opacity-Disabled: 0.5;
+.theme-dark {
+  --Dimension-Spacing-Semantic-Stack-Gap: 1px;
+  --Dimension-Shadow-Focus-Ring-Width: 3px;
 }

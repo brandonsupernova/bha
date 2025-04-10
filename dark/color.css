@@ -3,17 +3,17 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --Color-Foreground-Neutral-Faded: #606981;
+.theme-dark {
+  --Color-Foreground-Neutral-Faded: #9da8bb;
   --Color-Foreground-Placeholder: #7f8694;
-  --Color-Background-Neutral-Highlighted: #182d6614;
-  --Color-Background-Page-Faded: #fafafa;
+  --Color-Background-Neutral-Highlighted: #d0e2ff14;
+  --Color-Background-Page-Faded: #09122a;
   --Color-Background-Critical: #e22c2c;
   --Color-Background-Positive: #118850;
   --Color-Background-Blur: #fffffff2;
   --Color-Background-Blur-Neutral: #f4f5f7f2;
   --Color-Background-Blur-Neutral-Highlighted: #ecedf0f2;
-  --Color-Border-Neutral-Faded: #eceef3;
+  --Color-Border-Neutral-Faded: #22273a;
   --Color-Border-Critical-Faded: #fbd5d8;
   --Color-Border-Positive-Faded: #cdedd5;
   --Color-Border-Upgrade-Faded: #e3dbfa;
@@ -246,22 +246,22 @@
   --Color-Semantic-Sale-Sale-Color: #b7b7b7;
   --Color-Dark-Blue: #ff0000;
   --Color-Test: #ffffff;
-  --Color-Foreground-Neutral: var(--Color-Neutral-Neutral-900);
-  --Color-Foreground-Primary: var(--Color-Primary-Primary-800);
+  --Color-Foreground-Neutral: var(--Color-White);
+  --Color-Foreground-Primary: var(--Color-Primary-Primary-500);
   --Color-Foreground-Critical: var(--Color-Red-Red-600);
   --Color-Foreground-Warning: var(--Color-Orange-Orange-600);
   --Color-Foreground-Positive: var(--Color-Green-Green-600);
   --Color-Foreground-Upgrade: var(--Color-Purple-Purple-600);
-  --Color-Foreground-Disabled: var(--Color-Neutral-Neutral-500);
-  --Color-Background-Elevation-Base: var(--Color-White);
-  --Color-Background-Elevation-Raised: var(--Color-White);
-  --Color-Background-Elevation-Overlay: var(--Color-White);
-  --Color-Background-Neutral: var(--Color-Neutral-Neutral-200-Opaque);
-  --Color-Background-Neutral-Faded: var(--Color-Neutral-Neutral-100-Opaque);
-  --Color-Background-Page: var(--Color-White);
+  --Color-Foreground-Disabled: #c7cddb;
+  --Color-Background-Elevation-Base: var(--Color-Neutral-Neutral-900);
+  --Color-Background-Elevation-Raised: var(--Color-Neutral-Neutral-900);
+  --Color-Background-Elevation-Overlay: var(--Color-Neutral-Neutral-900);
+  --Color-Background-Neutral: #d0e2ff0f;
+  --Color-Background-Neutral-Faded: #d0e2ff0a;
+  --Color-Background-Page: #040a1e;
   --Color-Background-Primary: var(--Color-Primary-Primary-800);
   --Color-Background-Primary-Highlighted: var(--Color-Primary-Primary-700);
-  --Color-Background-Primary-Faded: var(--Color-Primary-Primary-200);
+  --Color-Background-Primary-Faded: #004ee1;
   --Color-Background-Critical-Highlighted: var(--Color-Red-Red-600);
   --Color-Background-Critical-Faded: var(--Color-Red-Red-100);
   --Color-Background-Warning: var(--Color-Orange-Orange-500);
@@ -271,8 +271,8 @@
   --Color-Background-Positive-Faded: var(--Color-Green-Green-100);
   --Color-Background-Upgrade: var(--Color-Purple-Purple-600);
   --Color-Background-Upgrade-Highlighted: var(--Color-Purple-Purple-700);
-  --Color-Background-Upgrade-Faded: var(--Color-Purple-Purple-100);
-  --Color-Background-Disabled: var(--Color-Neutral-Neutral-200-Opaque);
+  --Color-Background-Upgrade-Faded: #f5f2fd;
+  --Color-Background-Disabled: #d0e2ff12;
   --Color-Background-Disabled-Faded: var(--Color-Neutral-Neutral-100-Opaque);
   --Color-Background-Focus-Highlight: var(--Color-Primary-Primary-400);
   --Color-Border-Neutral: var(--Color-Neutral-Neutral-500);
@@ -284,7 +284,7 @@
   --Color-Border-Positive: var(--Color-Green-Green-600);
   --Color-Border-Upgrade: var(--Color-Purple-Purple-700);
   --Color-Border-Focus-Faded: var(--Color-Primary-Primary-400);
-  --Color-On-Background-Neutral: var(--Color-Neutral-Neutral-900);
+  --Color-On-Background-Neutral: var(--Color-White);
   --Color-Persistent-Black: var(--Color-Neutral-Neutral-900);
   --Color-Decorative-Blue-Foreground: var(--Color-Primary-Primary-600);
   --Color-Decorative-Blue-Background: var(--Color-Primary-Primary-200);
