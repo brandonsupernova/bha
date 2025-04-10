@@ -5,11 +5,11 @@
 
 :root {
   /* No radius */
-  --border_radius_border_radius_none: 0px;
-  --border_radius_border_radius_small: 3px;
-  --border_radius_border_radius_default: 5px;
-  --border_radius_border_radius_medium: 7px;
-  --border_radius_border_radius_large: 12px;
+  --border-radius-border-radius-none: 0px;
+  --border-radius-border-radius-small: 3px;
+  --border-radius-border-radius-default: 5px;
+  --border-radius-border-radius-medium: 7px;
+  --border-radius-border-radius-large: 12px;
   /* Essentially a circle */
-  --border_radius_border_radius_full: 999px;
+  --border-radius-border-radius-full: 999px;
 }
