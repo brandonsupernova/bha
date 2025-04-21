@@ -3,47 +3,43 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>/welcome-HjwKNusM</loc>
+            <loc>/documentation-HjwKNusM</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/design-tokens-bDZdeSqk</loc>
+            <loc>/styleguide/colors/token-details-8iIKcDif</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/typography-XNZ7KEJz</loc>
+            <loc>/styleguide/colors/token-groups-hhbwvoMn</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/components/component-overview-I1Tui13S</loc>
+            <loc>/styleguide/colors/token-list-WGHyZaJg</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/components/component-detail-rrYRzZEf</loc>
+            <loc>/styleguide/themes-599GOW6l</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/testing-HtJc1dxN</loc>
+            <loc>/styleguide/typography-upYGtx0d</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/testing-2-fTwFUCDI</loc>
+            <loc>/styleguide/components-tab-l7C3XUe2</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/product-cert-Nzr0KraA</loc>
+            <loc>/web-components/calendar-component-BD2KvaMx</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/2-tabs-typography-and-comp-checklist-5peiGScw</loc>
+            <loc>/web-components/storybook-o6CzQxER</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/buttons/live-code-snippet-BD2KvaMx</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/assets/icons-Hwx9e8fo</loc>
+            <loc>/web-components/markdown-1LxVXAuA</loc>
             <changefreq>weekly</changefreq>
         </url>
    
