@@ -3,17 +3,17 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --colorforegroundneutralfaded: #606981;
+.theme-dark-d38a {
+  --colorforegroundneutralfaded: #9da8bb;
   --colorforegroundplaceholder: #7f8694;
-  --colorbackgroundneutralhighlighted: #182d6614;
-  --colorbackgroundpagefaded: #fafafa;
+  --colorbackgroundneutralhighlighted: #d0e2ff14;
+  --colorbackgroundpagefaded: #09122a;
   --colorbackgroundcritical: #e22c2c;
   --colorbackgroundpositive: #118850;
   --colorbackgroundblur: #fffffff2;
   --colorbackgroundblurneutral: #f4f5f7f2;
   --colorbackgroundblurneutralhighlighted: #ecedf0f2;
-  --colorborderneutralfaded: #eceef3;
+  --colorborderneutralfaded: #22273a;
   --colorbordercriticalfaded: #fbd5d8;
   --colorborderpositivefaded: #cdedd5;
   --colorborderupgradefaded: #e3dbfa;
@@ -242,22 +242,22 @@
   --colorsemanticsalesale30background: #5869c1;
   --colorsemanticsalesalecolor: #b7b7b7;
   --colordarkblue: #ff0000;
-  --colorforegroundneutral: var(--colorneutralneutral900);
-  --colorforegroundprimary: var(--colorprimaryprimary800);
+  --colorforegroundneutral: var(--colorwhite);
+  --colorforegroundprimary: var(--colorprimaryprimary500);
   --colorforegroundcritical: var(--colorredred600);
   --colorforegroundwarning: var(--colororangeorange600);
   --colorforegroundpositive: var(--colorgreengreen600);
   --colorforegroundupgrade: var(--colorpurplepurple600);
-  --colorforegrounddisabled: var(--colorneutralneutral500);
-  --colorbackgroundelevationbase: var(--colorwhite);
-  --colorbackgroundelevationraised: var(--colorwhite);
-  --colorbackgroundelevationoverlay: var(--colorwhite);
-  --colorbackgroundneutral: var(--colorneutralneutral200opaque);
-  --colorbackgroundneutralfaded: var(--colorneutralneutral100opaque);
-  --colorbackgroundpage: var(--colorwhite);
+  --colorforegrounddisabled: #c7cddb;
+  --colorbackgroundelevationbase: var(--colorneutralneutral900);
+  --colorbackgroundelevationraised: var(--colorneutralneutral900);
+  --colorbackgroundelevationoverlay: var(--colorneutralneutral900);
+  --colorbackgroundneutral: #d0e2ff0f;
+  --colorbackgroundneutralfaded: #d0e2ff0a;
+  --colorbackgroundpage: #040a1e;
   --colorbackgroundprimary: var(--colorprimaryprimary800);
   --colorbackgroundprimaryhighlighted: var(--colorprimaryprimary700);
-  --colorbackgroundprimaryfaded: var(--colorprimaryprimary200);
+  --colorbackgroundprimaryfaded: #004ee1;
   --colorbackgroundcriticalhighlighted: var(--colorredred600);
   --colorbackgroundcriticalfaded: var(--colorredred100);
   --colorbackgroundwarning: var(--colororangeorange500);
@@ -267,8 +267,8 @@
   --colorbackgroundpositivefaded: var(--colorgreengreen100);
   --colorbackgroundupgrade: var(--colorpurplepurple600);
   --colorbackgroundupgradehighlighted: var(--colorpurplepurple700);
-  --colorbackgroundupgradefaded: var(--colorpurplepurple100);
-  --colorbackgrounddisabled: var(--colorneutralneutral200opaque);
+  --colorbackgroundupgradefaded: #f5f2fd;
+  --colorbackgrounddisabled: #d0e2ff12;
   --colorbackgrounddisabledfaded: var(--colorneutralneutral100opaque);
   --colorbackgroundfocushighlight: var(--colorprimaryprimary400);
   --colorborderneutral: var(--colorneutralneutral500);
@@ -280,7 +280,7 @@
   --colorborderpositive: var(--colorgreengreen600);
   --colorborderupgrade: var(--colorpurplepurple700);
   --colorborderfocusfaded: var(--colorprimaryprimary400);
-  --coloronbackgroundneutral: var(--colorneutralneutral900);
+  --coloronbackgroundneutral: var(--colorwhite);
   --colorpersistentblack: var(--colorneutralneutral900);
   --colordecorativeblueforeground: var(--colorprimaryprimary600);
   --colordecorativebluebackground: var(--colorprimaryprimary200);
