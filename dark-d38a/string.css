@@ -3,6 +3,6 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --opacityopacitydisabled: 0.5;
+.theme-dark-d38a {
+  --stringfontfamily: "Inter";
 }

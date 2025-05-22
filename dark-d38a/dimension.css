@@ -3,6 +3,8 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --opacityopacitydisabled: 0.5;
+.theme-dark-d38a {
+  --dimensionspacingsemanticstackgap: 1px;
+  --dimensionshadowfocusringwidth: 3px;
+  --dimensionfontweightbold: 640px;
 }
