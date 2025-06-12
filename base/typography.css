@@ -4,20 +4,20 @@
  */
 
 :root {
-  --typographyh1: 700 57px/64px "Advent Pro";
-  --typographyh2: 700 43px/50px "Advent Pro";
-  --typographyh3: 700 32px/40px "Advent Pro";
-  --typographyh4: 700 24px/32px "Advent Pro";
-  --typographyh5: 700 21px/29px "Advent Pro";
-  --typographylargelead: 400 24px/32px "Advent Pro";
-  --typographymediumlead: 400 21px/29px "Advent Pro";
-  --typographybuttonlabel: 400 21px/29px "Advent Pro";
-  --typographyparagraph: 400 18px/26px "Advent Pro";
-  --typographysmallparagraph: 400 16px/24px "Advent Pro";
-  --typographytinyparagraph: 400 12px/24px "Advent Pro";
-  --typographysale: 700 24px/32px "Advent Pro";
+  --Typography-H1: 700 57px/64px "Advent Pro";
+  --Typography-H2: 700 43px/50px "Advent Pro";
+  --Typography-H3: 700 32px/40px "Advent Pro";
+  --Typography-H4: 700 24px/32px "Advent Pro";
+  --Typography-H5: 700 21px/29px "Advent Pro";
+  --Typography-Large-Lead: 400 24px/32px "Advent Pro";
+  --Typography-Medium-Lead: 400 21px/29px "Advent Pro";
+  --Typography-Button-Label: 400 21px/29px "Advent Pro";
+  --Typography-Paragraph: 400 18px/26px "Advent Pro";
+  --Typography-Small-Paragraph: 400 16px/24px "Advent Pro";
+  --Typography-Tiny-Paragraph: 400 12px/24px "Advent Pro";
+  --Typography-Sale: 700 24px/32px "Advent Pro";
   /* typewriter font test */
-  --typographyimpactlabel: 400 13px "Impact Label";
+  --Typography-Impact-Label: 400 13px "Impact Label";
   /* importing test */
-  --typographypoppins: 400 13px "Poppins";
+  --Typography-Poppins: 400 13px "Poppins";
 }
