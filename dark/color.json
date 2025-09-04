@@ -3,7 +3,7 @@
   "color": {
     "foreground": {
       "neutral-faded": {
-        "value": "#606981",
+        "value": "#9da8bb",
         "type": "color"
       },
       "placeholder": {
@@ -11,11 +11,11 @@
         "type": "color"
       },
       "neutral": {
-        "value": "{color.neutral.neutral-900}",
+        "value": "{color.color.white}",
         "type": "color"
       },
       "primary": {
-        "value": "{color.primary.primary-800}",
+        "value": "{color.primary.primary-500}",
         "type": "color"
       },
       "critical": {
@@ -35,17 +35,17 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{color.neutral.neutral-500}",
+        "value": "#c7cddb",
         "type": "color"
       }
     },
     "background": {
       "neutral-highlighted": {
-        "value": "#182d6614",
+        "value": "#d0e2ff14",
         "type": "color"
       },
       "page-faded": {
-        "value": "#fafafa",
+        "value": "#09122a",
         "type": "color"
       },
       "critical": {
@@ -69,27 +69,27 @@
         "type": "color"
       },
       "elevation-base": {
-        "value": "{color.color.white}",
+        "value": "{color.neutral.neutral-900}",
         "type": "color"
       },
       "elevation-raised": {
-        "value": "{color.color.white}",
+        "value": "{color.neutral.neutral-900}",
         "type": "color"
       },
       "elevation-overlay": {
-        "value": "{color.color.white}",
+        "value": "{color.neutral.neutral-900}",
         "type": "color"
       },
       "neutral": {
-        "value": "{color.neutral.neutral-200-opaque}",
+        "value": "#d0e2ff0f",
         "type": "color"
       },
       "neutral-faded": {
-        "value": "{color.neutral.neutral-100-opaque}",
+        "value": "#d0e2ff0a",
         "type": "color"
       },
       "page": {
-        "value": "{color.color.white}",
+        "value": "#040a1e",
         "type": "color"
       },
       "primary": {
@@ -101,7 +101,7 @@
         "type": "color"
       },
       "primary-faded": {
-        "value": "{color.primary.primary-200}",
+        "value": "#004ee1",
         "type": "color"
       },
       "critical-highlighted": {
@@ -141,11 +141,11 @@
         "type": "color"
       },
       "upgrade-faded": {
-        "value": "{color.purple.purple-100}",
+        "value": "#f5f2fd",
         "type": "color"
       },
       "disabled": {
-        "value": "{color.neutral.neutral-200-opaque}",
+        "value": "#d0e2ff12",
         "type": "color"
       },
       "disabled-faded": {
@@ -159,7 +159,7 @@
     },
     "border": {
       "neutral-faded": {
-        "value": "#eceef3",
+        "value": "#22273a",
         "type": "color"
       },
       "critical-faded": {
@@ -1211,7 +1211,7 @@
     },
     "on-background": {
       "neutral": {
-        "value": "{color.neutral.neutral-900}",
+        "value": "{color.color.white}",
         "type": "color"
       },
       "primary": {
