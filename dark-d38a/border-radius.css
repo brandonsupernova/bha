@@ -5,11 +5,11 @@
 
 .theme-dark-d38a {
   /* No radius */
-  --border-radius-border-radius-none: 0px;
-  --border-radius-border-radius-small: 3px;
-  --border-radius-border-radius-default: 5px;
-  --border-radius-border-radius-medium: 7px;
-  --border-radius-border-radius-large: 12px;
+  --borderradiusborderradiusnone: 0px;
+  --borderradiusborderradiussmall: 3px;
+  --borderradiusborderradiusdefault: 5px;
+  --borderradiusborderradiusmedium: 7px;
+  --borderradiusborderradiuslarge: 12px;
   /* Essentially a circle */
-  --border-radius-border-radius-full: 999px;
+  --borderradiusborderradiusfull: 999px;
 }
