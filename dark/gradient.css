@@ -1,0 +1,9 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-dark {
+  --gradientstory: linear-gradient(-135deg, #7638fa 0%, #d300c5 17%, #ff0069 36%, #ff7a00 62.5%, #ffd600 83.5%);
+  --gradientscrim: linear-gradient(-179.9427042395855deg, #000000 0%, #00000066 47.14%, #00000000 100%);
+}

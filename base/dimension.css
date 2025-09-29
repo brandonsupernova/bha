@@ -6,5 +6,7 @@
 :root {
   --dimensionspacingsemanticstackgap: 1px;
   --dimensionshadowfocusringwidth: 3px;
-  --dimensionfontweightbold: 640px;
+  --dimensionpalettemagentanumber: 0px;
+  --dimensionnumber: 20px;
+  --dimensionnumber2: 0px;
 }

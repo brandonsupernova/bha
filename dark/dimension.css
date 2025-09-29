@@ -4,6 +4,9 @@
  */
 
 .theme-dark {
-  --Dimension-Spacing-Semantic-Stack-Gap: 1px;
-  --Dimension-Shadow-Focus-Ring-Width: 3px;
+  --dimensionspacingsemanticstackgap: 1px;
+  --dimensionshadowfocusringwidth: 3px;
+  --dimensionpalettemagentanumber: 0px;
+  --dimensionnumber: 20px;
+  --dimensionnumber2: 0px;
 }
