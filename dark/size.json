@@ -1,0 +1,19 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "size": {
+    "dimensions": {
+      "default": {
+        "value": "36px",
+        "type": "size"
+      },
+      "small": {
+        "value": "28px",
+        "type": "size"
+      },
+      "large": {
+        "value": "44px",
+        "type": "size"
+      }
+    }
+  }
+}
