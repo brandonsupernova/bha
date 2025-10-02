@@ -3,33 +3,21 @@
   "dimension": {
     "spacing": {
       "semantic": {
-        "stackgap": {
+        "stack-gap": {
           "value": "1px",
           "type": "dimension"
         }
       }
     },
     "shadow": {
-      "focusringwidth": {
+      "focus-ring-width": {
         "value": "3px",
         "type": "dimension"
       }
     },
-    "palette": {
-      "magenta": {
-        "number": {
-          "value": "0px",
-          "type": "dimension"
-        }
-      }
-    },
-    "dimension": {
-      "number": {
-        "value": "20px",
-        "type": "dimension"
-      },
-      "number2": {
-        "value": "0px",
+    "font-weight": {
+      "bold": {
+        "value": "640px",
         "type": "dimension"
       }
     }
