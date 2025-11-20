@@ -292,12 +292,12 @@
         "value": "rgb(253, 240, 247)",
         "type": "color"
       },
-      "pink-border": {
-        "value": "rgb(250, 214, 234)",
-        "type": "color"
-      },
       "purple-border": {
         "value": "rgb(228, 219, 250)",
+        "type": "color"
+      },
+      "pink-border": {
+        "value": "rgb(250, 214, 234)",
         "type": "color"
       },
       "red-border": {
@@ -406,8 +406,24 @@
         "value": "rgb(255, 255, 255)",
         "type": "color"
       },
+      "blue-200": {
+        "value": "rgb(255, 255, 255)",
+        "type": "color"
+      },
+      "test": {
+        "value": "rgb(93, 33, 33)",
+        "type": "color"
+      },
+      "test-1": {
+        "value": "rgb(255, 255, 255)",
+        "type": "color"
+      },
       "dark-blue": {
         "value": "rgb(255, 0, 0)",
+        "type": "color"
+      },
+      "test_1": {
+        "value": "rgb(255, 255, 255)",
         "type": "color"
       }
     },
