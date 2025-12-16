@@ -4,7 +4,7 @@
  */
 
 .theme-dark-d38a {
-  --dimensionspacingsemanticstackgap: 1px;
-  --dimensionshadowfocusringwidth: 3px;
-  --dimensionfontweightbold: 640px;
+  --dsprimarydimensionspacingsemanticstackgap: 1px;
+  --dsprimarydimensionshadowfocusringwidth: 3px;
+  --dsprimarydimensionfontweightbold: 640px;
 }
