@@ -5,11 +5,11 @@
 
 .theme-dark-d38a {
   /* No radius */
-  --dsprimaryborderradiusborderradiusnone: 0px;
-  --dsprimaryborderradiusborderradiussmall: 3px;
-  --dsprimaryborderradiusborderradiusdefault: 5px;
-  --dsprimaryborderradiusborderradiusmedium: 7px;
-  --dsprimaryborderradiusborderradiuslarge: 12px;
+  --borderradiusborderradiusnone: 0px;
+  --borderradiusborderradiussmall: 3px;
+  --borderradiusborderradiusdefault: 5px;
+  --borderradiusborderradiusmedium: 7px;
+  --borderradiusborderradiuslarge: 12px;
   /* Essentially a circle */
-  --dsprimaryborderradiusborderradiusfull: 999px;
+  --borderradiusborderradiusfull: 999px;
 }

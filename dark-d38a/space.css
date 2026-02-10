@@ -4,16 +4,16 @@
  */
 
 .theme-dark-d38a {
-  --dsprimaryspacespacing0: 0px;
-  --dsprimaryspacespacing2: 2px;
-  --dsprimaryspacespacing4: 4px;
-  --dsprimaryspacespacing8: 8px;
-  --dsprimaryspacespacing12: 12px;
-  --dsprimaryspacespacing16: 16px;
-  --dsprimaryspacespacing20: 20px;
-  --dsprimaryspacespacing24: 24px;
-  --dsprimaryspacespacing28: 28px;
-  --dsprimaryspacespacing32: 32px;
-  --dsprimaryspacespacing36: 36px;
-  --dsprimaryspacespacing40: 40px;
+  --spacespacing0: 0px;
+  --spacespacing2: 2px;
+  --spacespacing4: 4px;
+  --spacespacing8: 8px;
+  --spacespacing12: 12px;
+  --spacespacing16: 16px;
+  --spacespacing20: 20px;
+  --spacespacing24: 24px;
+  --spacespacing28: 28px;
+  --spacespacing32: 32px;
+  --spacespacing36: 36px;
+  --spacespacing40: 40px;
 }
