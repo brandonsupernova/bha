@@ -4,5 +4,8 @@
  */
 
 :root {
-  --string-font-family: "Inter";
+  --stringpalettemagentastring: "String value";
+  --stringfontfamily: "Inter";
+  --string: "String value";
+  --stringfontfamilydefault: "Inter";
 }
