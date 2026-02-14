@@ -1,9 +1,9 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
   "dsprimary": {
-    "font-size": {
-      "title-1": {
-        "font-size": {
+    "fontsize": {
+      "title1": {
+        "fontsize": {
           "value": "32px",
           "type": "fontSize"
         }
