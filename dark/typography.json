@@ -23,15 +23,15 @@
           "value": "700 21px/29px Roboto",
           "type": "typography"
         },
-        "large-lead": {
+        "largelead": {
           "value": "400 24px/32px Roboto",
           "type": "typography"
         },
-        "medium-lead": {
+        "mediumlead": {
           "value": "400 21px/29px Roboto",
           "type": "typography"
         },
-        "button-label": {
+        "buttonlabel": {
           "value": "400 21px/29px Roboto",
           "type": "typography"
         },
@@ -39,11 +39,11 @@
           "value": "400 18px/26px Roboto",
           "type": "typography"
         },
-        "small-paragraph": {
+        "smallparagraph": {
           "value": "400 16px/24px Roboto",
           "type": "typography"
         },
-        "tiny-paragraph": {
+        "tinyparagraph": {
           "value": "400 12px/24px Roboto",
           "type": "typography"
         },
@@ -51,7 +51,7 @@
           "value": "700 24px/34px Roboto",
           "type": "typography"
         },
-        "impact-label": {
+        "impactlabel": {
           "value": "400 13px Impact Label",
           "type": "typography",
           "description": "typewriter font test"
