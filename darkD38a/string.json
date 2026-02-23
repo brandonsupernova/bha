@@ -3,7 +3,7 @@
   "dsprimary": {
     "string": {
       "string": {
-        "fontfamily": {
+        "font-family": {
           "value": "Inter",
           "type": "string"
         }
