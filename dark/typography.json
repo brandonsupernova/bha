@@ -1,66 +1,54 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "dsprimary": {
+  "typography": {
     "typography": {
-      "typography": {
-        "h1": {
-          "value": "700 57px/64px Roboto",
-          "type": "typography"
-        },
-        "h2": {
-          "value": "700 43px/50px Roboto",
-          "type": "typography"
-        },
-        "h3": {
-          "value": "700 32px/40px Roboto",
-          "type": "typography"
-        },
-        "h4": {
-          "value": "700 24px/32px Roboto",
-          "type": "typography"
-        },
-        "h5": {
-          "value": "700 21px/29px Roboto",
-          "type": "typography"
-        },
-        "largelead": {
-          "value": "400 24px/32px Roboto",
-          "type": "typography"
-        },
-        "mediumlead": {
-          "value": "400 21px/29px Roboto",
-          "type": "typography"
-        },
-        "buttonlabel": {
-          "value": "400 21px/29px Roboto",
-          "type": "typography"
-        },
-        "paragraph": {
-          "value": "400 18px/26px Roboto",
-          "type": "typography"
-        },
-        "smallparagraph": {
-          "value": "400 16px/24px Roboto",
-          "type": "typography"
-        },
-        "tinyparagraph": {
-          "value": "400 12px/24px Roboto",
-          "type": "typography"
-        },
-        "sale": {
-          "value": "700 24px/34px Roboto",
-          "type": "typography"
-        },
-        "impactlabel": {
-          "value": "400 13px Impact Label",
-          "type": "typography",
-          "description": "typewriter font test"
-        },
-        "poppins": {
-          "value": "400 13px Poppins",
-          "type": "typography",
-          "description": "importing test"
-        }
+      "h1": {
+        "value": "700 57px/64px Roboto",
+        "type": "typography"
+      },
+      "h2": {
+        "value": "700 43px/50px Roboto",
+        "type": "typography"
+      },
+      "h3": {
+        "value": "700 32px/40px Roboto",
+        "type": "typography"
+      },
+      "h4": {
+        "value": "700 24px/32px Roboto",
+        "type": "typography"
+      },
+      "h5": {
+        "value": "700 21px/29px Roboto",
+        "type": "typography"
+      },
+      "largelead": {
+        "value": "400 24px/32px Roboto",
+        "type": "typography"
+      },
+      "mediumlead": {
+        "value": "400 21px/29px Roboto",
+        "type": "typography"
+      },
+      "buttonlabel": {
+        "value": "400 21px/29px Roboto",
+        "type": "typography"
+      },
+      "paragraph": {
+        "value": "400 18px/26px Roboto",
+        "type": "typography"
+      },
+      "smallparagraph": {
+        "value": "400 16px/24px Roboto",
+        "type": "typography"
+      },
+      "tinyparagraph": {
+        "value": "400 12px/24px Roboto",
+        "type": "typography"
+      },
+      "sale": {
+        "value": "700 24px/34px Roboto",
+        "type": "typography"
       }
     }
   }
