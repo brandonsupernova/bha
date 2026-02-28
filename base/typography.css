@@ -4,20 +4,16 @@
  */
 
 :root {
-  --dsprimary-typography-h1: 700 57px/64px "Advent Pro";
-  --dsprimary-typography-h2: 700 43px/50px "Advent Pro";
-  --dsprimary-typography-h3: 700 32px/40px "Advent Pro";
-  --dsprimary-typography-h4: 700 24px/32px "Advent Pro";
-  --dsprimary-typography-h5: 700 21px/29px "Advent Pro";
-  --dsprimary-typography-large-lead: 400 24px/32px "Advent Pro";
-  --dsprimary-typography-medium-lead: 400 21px/29px "Advent Pro";
-  --dsprimary-typography-button-label: 400 21px/29px "Advent Pro";
-  --dsprimary-typography-paragraph: 400 18px/26px "Advent Pro";
-  --dsprimary-typography-small-paragraph: 400 16px/24px "Advent Pro";
-  --dsprimary-typography-tiny-paragraph: 400 12px/24px "Advent Pro";
-  --dsprimary-typography-sale: 700 24px/32px "Advent Pro";
-  /* typewriter font test */
-  --dsprimary-typography-impact-label: 400 13px "Impact Label";
-  /* importing test */
-  --dsprimary-typography-poppins: 400 13px "Poppins";
+  --typographyh1: 700 57px/64px "Roboto";
+  --typographyh2: 700 43px/50px "Roboto";
+  --typographyh3: 700 32px/40px "Roboto";
+  --typographyh4: 700 24px/32px "Roboto";
+  --typographyh5: 700 21px/29px "Roboto";
+  --typographylargelead: 400 24px/32px "Roboto";
+  --typographymediumlead: 400 21px/29px "Roboto";
+  --typographybuttonlabel: 400 21px/29px "Roboto";
+  --typographyparagraph: 400 18px/26px "Roboto";
+  --typographysmallparagraph: 400 16px/24px "Roboto";
+  --typographytinyparagraph: 400 12px/24px "Roboto";
+  --typographysale: 700 24px/34px "Roboto";
 }
