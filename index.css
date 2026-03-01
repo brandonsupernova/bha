@@ -3,15 +3,29 @@
 @import "./base/space.css";
 @import "./base/dimension.css";
 @import "./base/opacity.css";
+@import "./base/z-index.css";
 @import "./base/string.css";
+@import "./base/font-size.css";
+@import "./base/font-weight.css";
+@import "./base/font-family.css";
+@import "./base/size.css";
 @import "./base/color.css";
 @import "./base/typography.css";
+@import "./base/gradient.css";
+@import "./base/shadow.css";
 
 /* Theme: Dark */
 @import "./dark/border-radius.css";
 @import "./dark/space.css";
 @import "./dark/dimension.css";
 @import "./dark/opacity.css";
+@import "./dark/z-index.css";
 @import "./dark/string.css";
+@import "./dark/font-size.css";
+@import "./dark/font-weight.css";
+@import "./dark/font-family.css";
+@import "./dark/size.css";
 @import "./dark/color.css";
 @import "./dark/typography.css";
+@import "./dark/gradient.css";
+@import "./dark/shadow.css";
