@@ -293,12 +293,12 @@
           "value": "#fdf0f7",
           "type": "color"
         },
-        "pinkborder": {
-          "value": "#fad6ea",
-          "type": "color"
-        },
         "purpleborder": {
           "value": "#e4dbfa",
+          "type": "color"
+        },
+        "pinkborder": {
+          "value": "#fad6ea",
           "type": "color"
         },
         "redborder": {
@@ -407,8 +407,24 @@
           "value": "#ffffff",
           "type": "color"
         },
+        "blue200": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "test": {
+          "value": "#5d2121",
+          "type": "color"
+        },
+        "test1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "darkblue": {
           "value": "#ff0000",
+          "type": "color"
+        },
+        "test_1": {
+          "value": "#ffffff",
           "type": "color"
         }
       },
