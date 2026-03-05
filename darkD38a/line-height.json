@@ -1,10 +1,12 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "line-height": {
-    "title-1": {
-      "line-height": {
-        "value": "40px",
-        "type": "lineHeight"
+  "dsprimary": {
+    "lineheight": {
+      "title1": {
+        "lineheight": {
+          "value": "40px",
+          "type": "lineHeight"
+        }
       }
     }
   }
