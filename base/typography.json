@@ -4,54 +4,54 @@
     "typography": {
       "typography": {
         "h1": {
-          "value": "700 57px/64px Advent Pro",
+          "value": "700 57px/64px Roboto",
           "type": "typography"
         },
         "h2": {
-          "value": "700 43px/50px Advent Pro",
+          "value": "700 43px/50px Roboto",
           "type": "typography"
         },
         "h3": {
-          "value": "700 32px/40px Advent Pro",
+          "value": "700 32px/40px Roboto",
           "type": "typography"
         },
         "h4": {
-          "value": "700 24px/32px Advent Pro",
+          "value": "700 24px/32px Roboto",
           "type": "typography"
         },
         "h5": {
-          "value": "700 21px/29px Advent Pro",
+          "value": "700 21px/29px Roboto",
           "type": "typography"
         },
-        "large-lead": {
-          "value": "400 24px/32px Advent Pro",
+        "largelead": {
+          "value": "400 24px/32px Roboto",
           "type": "typography"
         },
-        "medium-lead": {
-          "value": "400 21px/29px Advent Pro",
+        "mediumlead": {
+          "value": "400 21px/29px Roboto",
           "type": "typography"
         },
-        "button-label": {
-          "value": "400 21px/29px Advent Pro",
+        "buttonlabel": {
+          "value": "400 21px/29px Roboto",
           "type": "typography"
         },
         "paragraph": {
-          "value": "400 18px/26px Advent Pro",
+          "value": "400 18px/26px Roboto",
           "type": "typography"
         },
-        "small-paragraph": {
-          "value": "400 16px/24px Advent Pro",
+        "smallparagraph": {
+          "value": "400 16px/24px Roboto",
           "type": "typography"
         },
-        "tiny-paragraph": {
-          "value": "400 12px/24px Advent Pro",
+        "tinyparagraph": {
+          "value": "400 12px/24px Roboto",
           "type": "typography"
         },
         "sale": {
-          "value": "700 24px/32px Advent Pro",
+          "value": "700 24px/34px Roboto",
           "type": "typography"
         },
-        "impact-label": {
+        "impactlabel": {
           "value": "400 13px Impact Label",
           "type": "typography",
           "description": "typewriter font test"
