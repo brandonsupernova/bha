@@ -1,26 +1,18 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "dsprimary": {
-    "dimension": {
-      "spacing": {
-        "semantic": {
-          "stack-gap": {
-            "value": "1px",
-            "type": "dimension"
-          }
-        }
-      },
-      "shadow": {
-        "focus-ring-width": {
-          "value": "3px",
+  "dimension": {
+    "spacing": {
+      "semantic": {
+        "stack-gap": {
+          "value": "1px",
           "type": "dimension"
         }
-      },
-      "font-weight": {
-        "bold": {
-          "value": "640px",
-          "type": "dimension"
-        }
+      }
+    },
+    "shadow": {
+      "focus-ring-width": {
+        "value": "3px",
+        "type": "dimension"
       }
     }
   }
