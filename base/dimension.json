@@ -15,12 +15,6 @@
           "value": "3px",
           "type": "dimension"
         }
-      },
-      "fontweight": {
-        "bold": {
-          "value": "640px",
-          "type": "dimension"
-        }
       }
     }
   }
