@@ -4,21 +4,15 @@
     "dimension": {
       "spacing": {
         "semantic": {
-          "stackgap": {
+          "stack-gap": {
             "value": "1px",
             "type": "dimension"
           }
         }
       },
       "shadow": {
-        "focusringwidth": {
+        "focus-ring-width": {
           "value": "3px",
-          "type": "dimension"
-        }
-      },
-      "fontweight": {
-        "bold": {
-          "value": "640px",
           "type": "dimension"
         }
       }
