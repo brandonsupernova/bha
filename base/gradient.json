@@ -1,0 +1,15 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "gradient": {
+    "gradient": {
+      "story": {
+        "value": "linear-gradient(-135deg, rgb(118, 56, 250) 0%, rgb(211, 0, 197) 17%, rgb(255, 0, 105) 36%, rgb(255, 122, 0) 62.5%, rgb(255, 214, 0) 83.5%)",
+        "type": "gradient"
+      },
+      "scrim": {
+        "value": "linear-gradient(-179.9427042395855deg, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 47.14%, rgb(0, 0, 0) 100%)",
+        "type": "gradient"
+      }
+    }
+  }
+}
