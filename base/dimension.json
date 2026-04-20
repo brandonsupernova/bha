@@ -1,150 +1,26 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "dimension": {
-    "spacing": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
-      },
-      "2": {
-        "value": "2px",
-        "type": "dimension"
-      },
-      "4": {
-        "value": "4px",
-        "type": "dimension"
-      },
-      "8": {
-        "value": "8px",
-        "type": "dimension"
-      },
-      "12": {
-        "value": "12px",
-        "type": "dimension"
-      },
-      "16": {
-        "value": "16px",
-        "type": "dimension"
-      },
-      "20": {
-        "value": "20px",
-        "type": "dimension"
-      },
-      "24": {
-        "value": "24px",
-        "type": "dimension"
-      },
-      "28": {
-        "value": "28px",
-        "type": "dimension"
-      },
-      "32": {
-        "value": "32px",
-        "type": "dimension"
-      },
-      "36": {
-        "value": "36px",
-        "type": "dimension"
-      },
-      "40": {
-        "value": "40px",
-        "type": "dimension"
-      },
-      "semantic": {
-        "stackgap": {
-          "value": "1px",
-          "type": "dimension"
-        }
-      }
-    },
-    "shadow": {
-      "focusringwidth": {
-        "value": "3px",
-        "type": "dimension"
-      }
-    },
-    "palette": {
-      "magenta": {
-        "number": {
-          "value": "0px",
-          "type": "dimension"
-        }
-      }
-    },
+  "dsprimary": {
     "dimension": {
-      "number": {
-        "value": "20px",
-        "type": "dimension"
+      "spacing": {
+        "semantic": {
+          "stackgap": {
+            "value": "1px",
+            "type": "dimension"
+          }
+        }
       },
-      "number2": {
-        "value": "0px",
-        "type": "dimension"
-      }
-    },
-    "borderradius": {
-      "none": {
-        "value": "0px",
-        "type": "dimension",
-        "description": "No radius"
-      },
-      "small": {
-        "value": "3px",
-        "type": "dimension"
-      },
-      "default": {
-        "value": "5px",
-        "type": "dimension"
-      },
-      "medium": {
-        "value": "7px",
-        "type": "dimension"
-      },
-      "large": {
-        "value": "12px",
-        "type": "dimension"
-      },
-      "full": {
-        "value": "999px",
-        "type": "dimension",
-        "description": "Essentially a circle"
-      }
-    },
-    "opacity": {
-      "disabled": {
-        "value": "50px",
-        "type": "dimension"
-      }
-    },
-    "dimensions": {
-      "default": {
-        "value": "36px",
-        "type": "dimension"
-      },
-      "small": {
-        "value": "28px",
-        "type": "dimension"
-      },
-      "large": {
-        "value": "44px",
-        "type": "dimension"
-      }
-    },
-    "heading": {
-      "title1": {
-        "fontsize": {
-          "value": "32px",
-          "type": "dimension"
-        },
-        "lineheight": {
-          "value": "40px",
+      "shadow": {
+        "focusringwidth": {
+          "value": "3px",
           "type": "dimension"
         }
-      }
-    },
-    "fontweight": {
-      "bold": {
-        "value": "640px",
-        "type": "dimension"
+      },
+      "fontweight": {
+        "bold": {
+          "value": "640px",
+          "type": "dimension"
+        }
       }
     }
   }
