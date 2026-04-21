@@ -4,5 +4,8 @@
  */
 
 .theme-dark {
-  --String-Font-Family: "Inter";
+  --stringpalettemagentastring: "String value";
+  --stringfontfamily: "Inter";
+  --string: "String value";
+  --stringfontfamilydefault: "Inter";
 }

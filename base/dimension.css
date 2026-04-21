@@ -6,5 +6,34 @@
 :root {
   --dimensionspacingsemanticstackgap: 1px;
   --dimensionshadowfocusringwidth: 3px;
+  --dimensionpalettemagentanumber: 0px;
+  --dimensionnumber: 20px;
+  --dimensionnumber2: 0px;
+  /* No radius */
+  --dimensionborderradiusnone: 0px;
+  --dimensionborderradiussmall: 3px;
+  --dimensionborderradiusdefault: 5px;
+  --dimensionborderradiusmedium: 7px;
+  --dimensionborderradiuslarge: 12px;
+  /* Essentially a circle */
+  --dimensionborderradiusfull: 999px;
+  --dimensionspacing0: 0px;
+  --dimensionspacing2: 2px;
+  --dimensionspacing4: 4px;
+  --dimensionspacing8: 8px;
+  --dimensionspacing12: 12px;
+  --dimensionspacing16: 16px;
+  --dimensionspacing20: 20px;
+  --dimensionspacing24: 24px;
+  --dimensionspacing28: 28px;
+  --dimensionspacing32: 32px;
+  --dimensionspacing36: 36px;
+  --dimensionspacing40: 40px;
+  --dimensionopacitydisabled: 50px;
+  --dimensiondimensionsdefault: 36px;
+  --dimensiondimensionssmall: 28px;
+  --dimensiondimensionslarge: 44px;
+  --dimensionheadingtitle1fontsize: 32px;
+  --dimensionheadingtitle1lineheight: 40px;
   --dimensionfontweightbold: 640px;
 }
