@@ -1,10 +1,12 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "fontsize": {
+  "ds": {
     "fontsize": {
-      "example": {
-        "value": "100px",
-        "type": "fontSize"
+      "title1": {
+        "fontsize": {
+          "value": "32px",
+          "type": "fontSize"
+        }
       }
     }
   }
