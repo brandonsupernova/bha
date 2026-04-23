@@ -1,6 +1,6 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "ds": {
+  "dsprimary": {
     "color": {
       "foreground": {
         "neutralfaded": {
@@ -12,27 +12,27 @@
           "type": "color"
         },
         "neutral": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "primary": {
-          "value": "{ds.color.primary.primary500}",
+          "value": "{dsprimary.color.primary.primary500}",
           "type": "color"
         },
         "critical": {
-          "value": "{ds.color.red.red600}",
+          "value": "{dsprimary.color.red.red600}",
           "type": "color"
         },
         "warning": {
-          "value": "{ds.color.orange.orange600}",
+          "value": "{dsprimary.color.orange.orange600}",
           "type": "color"
         },
         "positive": {
-          "value": "{ds.color.green.green600}",
+          "value": "{dsprimary.color.green.green600}",
           "type": "color"
         },
         "upgrade": {
-          "value": "{ds.color.purple.purple600}",
+          "value": "{dsprimary.color.purple.purple600}",
           "type": "color"
         },
         "disabled": {
@@ -70,15 +70,15 @@
           "type": "color"
         },
         "elevationbase": {
-          "value": "{ds.color.neutral.neutral900}",
+          "value": "{dsprimary.color.neutral.neutral900}",
           "type": "color"
         },
         "elevationraised": {
-          "value": "{ds.color.neutral.neutral900}",
+          "value": "{dsprimary.color.neutral.neutral900}",
           "type": "color"
         },
         "elevationoverlay": {
-          "value": "{ds.color.neutral.neutral900}",
+          "value": "{dsprimary.color.neutral.neutral900}",
           "type": "color"
         },
         "neutral": {
@@ -94,11 +94,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "{ds.color.primary.primary800}",
+          "value": "{dsprimary.color.primary.primary800}",
           "type": "color"
         },
         "primaryhighlighted": {
-          "value": "{ds.color.primary.primary700}",
+          "value": "{dsprimary.color.primary.primary700}",
           "type": "color"
         },
         "primaryfaded": {
@@ -106,39 +106,39 @@
           "type": "color"
         },
         "criticalhighlighted": {
-          "value": "{ds.color.red.red600}",
+          "value": "{dsprimary.color.red.red600}",
           "type": "color"
         },
         "criticalfaded": {
-          "value": "{ds.color.red.red100}",
+          "value": "{dsprimary.color.red.red100}",
           "type": "color"
         },
         "warning": {
-          "value": "{ds.color.orange.orange500}",
+          "value": "{dsprimary.color.orange.orange500}",
           "type": "color"
         },
         "warninghighlighted": {
-          "value": "{ds.color.orange.orange600}",
+          "value": "{dsprimary.color.orange.orange600}",
           "type": "color"
         },
         "warningfaded": {
-          "value": "{ds.color.orange.orange100}",
+          "value": "{dsprimary.color.orange.orange100}",
           "type": "color"
         },
         "positivehighlighted": {
-          "value": "{ds.color.green.green600}",
+          "value": "{dsprimary.color.green.green600}",
           "type": "color"
         },
         "positivefaded": {
-          "value": "{ds.color.green.green100}",
+          "value": "{dsprimary.color.green.green100}",
           "type": "color"
         },
         "upgrade": {
-          "value": "{ds.color.purple.purple600}",
+          "value": "{dsprimary.color.purple.purple600}",
           "type": "color"
         },
         "upgradehighlighted": {
-          "value": "{ds.color.purple.purple700}",
+          "value": "{dsprimary.color.purple.purple700}",
           "type": "color"
         },
         "upgradefaded": {
@@ -150,11 +150,11 @@
           "type": "color"
         },
         "disabledfaded": {
-          "value": "{ds.color.neutral.neutral100opaque}",
+          "value": "{dsprimary.color.neutral.neutral100opaque}",
           "type": "color"
         },
         "focushighlight": {
-          "value": "{ds.color.primary.primary400}",
+          "value": "{dsprimary.color.primary.primary400}",
           "type": "color"
         }
       },
@@ -184,39 +184,39 @@
           "type": "color"
         },
         "neutral": {
-          "value": "{ds.color.neutral.neutral500}",
+          "value": "{dsprimary.color.neutral.neutral500}",
           "type": "color"
         },
         "primary": {
-          "value": "{ds.color.primary.primary700}",
+          "value": "{dsprimary.color.primary.primary700}",
           "type": "color"
         },
         "primaryfaded": {
-          "value": "{ds.color.primary.primary400}",
+          "value": "{dsprimary.color.primary.primary400}",
           "type": "color"
         },
         "critical": {
-          "value": "{ds.color.red.red600}",
+          "value": "{dsprimary.color.red.red600}",
           "type": "color"
         },
         "warning": {
-          "value": "{ds.color.orange.orange600}",
+          "value": "{dsprimary.color.orange.orange600}",
           "type": "color"
         },
         "warningfaded": {
-          "value": "{ds.color.orange.orange200}",
+          "value": "{dsprimary.color.orange.orange200}",
           "type": "color"
         },
         "positive": {
-          "value": "{ds.color.green.green600}",
+          "value": "{dsprimary.color.green.green600}",
           "type": "color"
         },
         "upgrade": {
-          "value": "{ds.color.purple.purple700}",
+          "value": "{dsprimary.color.purple.purple700}",
           "type": "color"
         },
         "focusfaded": {
-          "value": "{ds.color.primary.primary400}",
+          "value": "{dsprimary.color.primary.primary400}",
           "type": "color"
         }
       },
@@ -330,39 +330,39 @@
           "type": "color"
         },
         "blueforeground": {
-          "value": "{ds.color.primary.primary600}",
+          "value": "{dsprimary.color.primary.primary600}",
           "type": "color"
         },
         "bluebackground": {
-          "value": "{ds.color.primary.primary200}",
+          "value": "{dsprimary.color.primary.primary200}",
           "type": "color"
         },
         "blueborder": {
-          "value": "{ds.color.primary.primary400}",
+          "value": "{dsprimary.color.primary.primary400}",
           "type": "color"
         },
         "greenforeground": {
-          "value": "{ds.color.green.green600}",
+          "value": "{dsprimary.color.green.green600}",
           "type": "color"
         },
         "greenbackground": {
-          "value": "{ds.color.green.green100}",
+          "value": "{dsprimary.color.green.green100}",
           "type": "color"
         },
         "purpleforeground": {
-          "value": "{ds.color.purple.purple600}",
+          "value": "{dsprimary.color.purple.purple600}",
           "type": "color"
         },
         "purplebackground": {
-          "value": "{ds.color.purple.purple100}",
+          "value": "{dsprimary.color.purple.purple100}",
           "type": "color"
         },
         "redforeground": {
-          "value": "{ds.color.red.red600}",
+          "value": "{dsprimary.color.red.red600}",
           "type": "color"
         },
         "redbackground": {
-          "value": "{ds.color.red.red100}",
+          "value": "{dsprimary.color.red.red100}",
           "type": "color"
         }
       },
@@ -1196,37 +1196,37 @@
       },
       "onbackground": {
         "neutral": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "primary": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "critical": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "warning": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "positive": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         },
         "upgrade": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         }
       },
       "persistent": {
         "black": {
-          "value": "{ds.color.neutral.neutral900}",
+          "value": "{dsprimary.color.neutral.neutral900}",
           "type": "color"
         },
         "white": {
-          "value": "{ds.color.color.white}",
+          "value": "{dsprimary.color.color.white}",
           "type": "color"
         }
       }
