@@ -1,6 +1,6 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "ds": {
+  "dsprimary": {
     "typography": {
       "typography": {
         "h1": {
@@ -23,15 +23,15 @@
           "value": "700 21px/29px Advent Pro",
           "type": "typography"
         },
-        "largelead": {
+        "large-lead": {
           "value": "400 24px/32px Advent Pro",
           "type": "typography"
         },
-        "mediumlead": {
+        "medium-lead": {
           "value": "400 21px/29px Advent Pro",
           "type": "typography"
         },
-        "buttonlabel": {
+        "button-label": {
           "value": "400 21px/29px Advent Pro",
           "type": "typography"
         },
@@ -39,11 +39,11 @@
           "value": "400 18px/26px Advent Pro",
           "type": "typography"
         },
-        "smallparagraph": {
+        "small-paragraph": {
           "value": "400 16px/24px Advent Pro",
           "type": "typography"
         },
-        "tinyparagraph": {
+        "tiny-paragraph": {
           "value": "400 12px/24px Advent Pro",
           "type": "typography"
         },
@@ -51,7 +51,7 @@
           "value": "700 24px/32px Advent Pro",
           "type": "typography"
         },
-        "impactlabel": {
+        "impact-label": {
           "value": "400 13px Impact Label",
           "type": "typography",
           "description": "typewriter font test"
