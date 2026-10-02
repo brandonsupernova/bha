@@ -226,10 +226,10 @@
   --colorpalettemagenta200: #ecc7f4;
   --colorpalettemagenta100: #f5e4fa;
   --colorpalettemagenta0: #fcf0fe;
-  --colorsemanticinfobackground: #e0f1fe;
-  --colorsemanticinfoborder: #5196dd;
-  --colorsemanticinfocolor: #3a79bd;
-  --colorsemanticinfoicon: #306ca5;
+  --colorsemanticsuccessinfobackground: #e0f1fe;
+  --colorsemanticsuccessinfoborder: #5196dd;
+  --colorsemanticsuccessinfocolor: #3a79bd;
+  --colorsemanticsuccessinfoicon: #306ca5;
   --colorsemanticwarningbackground: #ffffff;
   --colorforegroundprimaryfaded: #406ec5;
   --colorforegroundcriticalfaded: #bd4143;
@@ -302,6 +302,7 @@
   --colorborderdecorativelightgreyfaded: #9e9e9e4d;
   --colorborderdecorativegreyfaded: #8da0bb4d;
   --colorbrandbase: #a74a7f;
+  --colortest: #ffffff;
   /* Used for error backgrunds */
   --colorsemanticerrorbackground: var(--colorpalettered100);
   --colorsemanticerrorborder: var(--colorpalettered600);
