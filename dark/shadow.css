@@ -3,6 +3,6 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --fontfamilypalettegreenstring: "String value";
+.theme-dark {
+  --shadowblue: 0px 4px 4px 0px var(--colorforegroundprimary);
 }

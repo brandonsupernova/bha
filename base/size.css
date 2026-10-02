@@ -4,5 +4,7 @@
  */
 
 :root {
-  --fontfamilypalettegreenstring: "String value";
+  --sizedimensionsdefault: 36px;
+  --sizedimensionssmall: 28px;
+  --sizedimensionslarge: 44px;
 }

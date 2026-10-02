@@ -3,6 +3,8 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --fontfamilypalettegreenstring: "String value";
+.theme-dark {
+  --sizedimensionsdefault: 36px;
+  --sizedimensionssmall: 28px;
+  --sizedimensionslarge: 44px;
 }
